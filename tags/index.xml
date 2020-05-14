@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Dr. Steffen Martens</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Inverse Problems</title>
+      <link>/tags/inverse-problems/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/inverse-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reaction-Diffusion Equations</title>
+      <link>/tags/reaction-diffusion-equations/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/reaction-diffusion-equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Field Equations</title>
+      <link>/tags/neural-field-equations/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/neural-field-equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confinement</title>
+      <link>/tags/confinement/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/confinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal control</title>
+      <link>/tags/optimal-control/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/optimal-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropic Transport</title>
+      <link>/tags/entropic-transport/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/entropic-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HEET</title>
+      <link>/tags/heet/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/heet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>energetic barriers</title>
+      <link>/tags/energetic-barriers/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/energetic-barriers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatially periodic potential</title>
+      <link>/tags/spatially-periodic-potential/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/spatially-periodic-potential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thermally activated transport</title>
+      <link>/tags/thermally-activated-transport/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/thermally-activated-transport/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spatially periodic potential | Dr. Steffen Martens</title>
+    <link>/tags/spatially-periodic-potential/</link>
+      <atom:link href="/tags/spatially-periodic-potential/index.xml" rel="self" type="application/rss+xml" />
+    <description>spatially periodic potential</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>spatially periodic potential</title>
+      <link>/tags/spatially-periodic-potential/</link>
+    </image>
+    
+    <item>
+      <title>Thermally activated escape over potential barriers</title>
+      <link>/project/nonlinearoscchains/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/project/nonlinearoscchains/</guid>
+      <description>&lt;p&gt;Transport phenomena play a fundamental role in many physical systems. For systems that evolve in an external potential which possesses metastable states the thermally activated escape over potential barriers, as the precondition for transport, is the mostly studied situation. Due to its ubiquity and simplicity a spatially periodic potential is employed in a number of applications including Josephson tunneling junctions , phase-locked loops , rotation of dipoles, charge-density wave, dislocation, diffusion of atoms and molecules on crystal surfaces, biophysical processes such as neural activity and intracellular transport.&lt;/p&gt;
+&lt;p&gt;Actually, I investigate the Langevin dynamics in the high-friction limit of a dimer, consisting of two Brownian particles coupled by interaction potentials, absorbed on a one-dimensional periodic substrate and subjected to an external localized point force:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;drift and diffusion coefficient both exhibits a multipeak structure as a function of the equilibrium interaction separation,&lt;/li&gt;
+&lt;li&gt;net current is found to be a non-monotonous function of the force magnitude and the noise strength,&lt;/li&gt;
+&lt;li&gt;for 2D periodic potentials, the effect of negative resistance is found.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To be more precise, we observed a non-zero net current of the dimer&#39;s center of mass in the absence of thermal fluctuations/energy for overcritical forcing. With increasing noise strength the transport of the dimer system is inhibited and thus the mobility of the center of mass decreases until a finite resonant value is reached. Further growing noise strength results in an increase of the mobility of the dimer system and eventually the mobility converges to one for infinite thermal energy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

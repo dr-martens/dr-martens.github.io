@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fredi Tr&amp;ouml;ltzsch | Dr. Steffen Martens</title>
+    <link>/authors/fredi-troumlltzsch/</link>
+      <atom:link href="/authors/fredi-troumlltzsch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fredi Tr&amp;ouml;ltzsch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Fredi Tr&amp;ouml;ltzsch</title>
+      <link>/authors/fredi-troumlltzsch/</link>
+    </image>
+    
+    <item>
+      <title>Control of traveling localized spots</title>
+      <link>/publication/preprint/2020-01-01_control_of_traveling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/2020-01-01_control_of_traveling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical, optimal, and sparse optimal control of traveling wave solutions to reaction-diffusion systems</title>
+      <link>/publication/journal-article/2016-01-01_analytical_optimal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2016-01-01_analytical_optimal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

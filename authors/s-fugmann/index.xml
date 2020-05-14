@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Fugmann | Dr. Steffen Martens</title>
+    <link>/authors/s-fugmann/</link>
+      <atom:link href="/authors/s-fugmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Fugmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S Fugmann</title>
+      <link>/authors/s-fugmann/</link>
+    </image>
+    
+    <item>
+      <title>Deterministic escape of a dimer over an anharmonic potential barrier</title>
+      <link>/publication/journal-article/2008-01-01_deterministic_escape/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2008-01-01_deterministic_escape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonancelike phenomena in the mobility of a chain of nonlinear coupled oscillators in a two-dimensional periodic potential</title>
+      <link>/publication/journal-article/2008-01-01_resonancelike_phenom/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2008-01-01_resonancelike_phenom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transition between locked and running states for dimer motion induced by periodic external driving</title>
+      <link>/publication/journal-article/2008-01-01_transition_between_l/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2008-01-01_transition_between_l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

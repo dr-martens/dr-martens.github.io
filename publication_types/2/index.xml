@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Dr. Steffen Martens</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Control of traveling localized spots</title>
+      <link>/publication/preprint/2020-01-01_control_of_traveling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/2020-01-01_control_of_traveling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Straight-line regression in errors-in-variables models -- Comparing different GUM uncertainty evaluations</title>
+      <link>/publication/preprint/2020-01-01_straight-line_regres/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/2020-01-01_straight-line_regres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of nonlinear wave solutions to neural field equations</title>
+      <link>/publication/journal-article/2019-01-01_control_of_nonlinear/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019-01-01_control_of_nonlinear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Note: From reaction-diffusion systems to confined Brownian motion</title>
+      <link>/publication/journal-article/2016-01-01_note_from_reaction-d/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2016-01-01_note_from_reaction-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave propagation in spatially modulated tubes</title>
+      <link>/publication/journal-article/2016-01-01_wave_propagation_in_/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2016-01-01_wave_propagation_in_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Front propagation in channels with spatially modulated cross section</title>
+      <link>/publication/journal-article/2015-01-01_front_propagation_in/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2015-01-01_front_propagation_in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giant enhancement of hydrodynamically enforced entropic trapping in thin channels</title>
+      <link>/publication/journal-article/2014-01-01_giant_enhancement_of/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2014-01-01_giant_enhancement_of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaping wave patterns in reaction-diffusion systems</title>
+      <link>/publication/journal-article/2014-01-01_shaping_wave_pattern/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2014-01-01_shaping_wave_pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How entropy and hydrodynamics cooperate in rectifying particle transport</title>
+      <link>/publication/journal-article/2013-01-01_how_entropy_and_hydr/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013-01-01_how_entropy_and_hydr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrodynamically enforced entropic trapping of Brownian particles</title>
+      <link>/publication/journal-article/2013-01-01_hydrodynamically_enf/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013-01-01_hydrodynamically_enf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication: Impact of inertia on biased Brownian transport in confined geometries</title>
+      <link>/publication/journal-article/2012-01-01_communication_impact/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2012-01-01_communication_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Driven Brownian transport through arrays of symmetric obstacles</title>
+      <link>/publication/journal-article/2012-01-01_driven_brownian_tran/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2012-01-01_driven_brownian_tran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased Brownian motion in extreme corrugated tubes</title>
+      <link>/publication/journal-article/2011-01-01_biased_brownian_moti/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2011-01-01_biased_brownian_moti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropic particle transport: Higher-order corrections to the Fick-Jacobs diffusion equation</title>
+      <link>/publication/journal-article/2011-01-01_entropic_particle_tr/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2011-01-01_entropic_particle_tr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deterministic escape of a dimer over an anharmonic potential barrier</title>
+      <link>/publication/journal-article/2008-01-01_deterministic_escape/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2008-01-01_deterministic_escape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonancelike phenomena in the mobility of a chain of nonlinear coupled oscillators in a two-dimensional periodic potential</title>
+      <link>/publication/journal-article/2008-01-01_resonancelike_phenom/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2008-01-01_resonancelike_phenom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transition between locked and running states for dimer motion induced by periodic external driving</title>
+      <link>/publication/journal-article/2008-01-01_transition_between_l/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2008-01-01_transition_between_l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

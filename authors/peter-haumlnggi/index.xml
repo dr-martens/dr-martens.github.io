@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter H&amp;auml;nggi | Dr. Steffen Martens</title>
+    <link>/authors/peter-haumlnggi/</link>
+      <atom:link href="/authors/peter-haumlnggi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter H&amp;auml;nggi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Peter H&amp;auml;nggi</title>
+      <link>/authors/peter-haumlnggi/</link>
+    </image>
+    
+    <item>
+      <title>Giant enhancement of hydrodynamically enforced entropic trapping in thin channels</title>
+      <link>/publication/journal-article/2014-01-01_giant_enhancement_of/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2014-01-01_giant_enhancement_of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrodynamically enforced entropic trapping of Brownian particles</title>
+      <link>/publication/journal-article/2013-01-01_hydrodynamically_enf/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013-01-01_hydrodynamically_enf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Driven Brownian transport through arrays of symmetric obstacles</title>
+      <link>/publication/journal-article/2012-01-01_driven_brownian_tran/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2012-01-01_driven_brownian_tran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased Brownian motion in extreme corrugated tubes</title>
+      <link>/publication/journal-article/2011-01-01_biased_brownian_moti/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2011-01-01_biased_brownian_moti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropic particle transport: Higher-order corrections to the Fick-Jacobs diffusion equation</title>
+      <link>/publication/journal-article/2011-01-01_entropic_particle_tr/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2011-01-01_entropic_particle_tr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katy Klauenberg | Dr. Steffen Martens</title>
+    <link>/authors/katy-klauenberg/</link>
+      <atom:link href="/authors/katy-klauenberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katy Klauenberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Katy Klauenberg</title>
+      <link>/authors/katy-klauenberg/</link>
+    </image>
+    
+    <item>
+      <title>Straight-line regression in errors-in-variables models -- Comparing different GUM uncertainty evaluations</title>
+      <link>/publication/preprint/2020-01-01_straight-line_regres/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/2020-01-01_straight-line_regres/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
