@@ -29,6 +29,93 @@
     </item>
     
     <item>
+      <title>Wave propagation in spatially modulated channels</title>
+      <link>/project/rdaconf/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/project/rdaconf/</guid>
+      <description>&lt;p&gt;Propagation of traveling wave patterns plays in crucial role in various technological and biophysical processes such as catalysis, CO$_2$ sequestration, chemical computing, neural information processing, and self-organized pattern formation in cells. Often, the medium supporting wave propagation exhibits an irregular shape and/or is limited in size, leading to complex wave phenomena.&lt;/p&gt;
+&lt;p&gt;Recently, we have provided a first systematic treatment by applying asymptotic perturbation analysis leading to an approximate description that involves a reduction of dimensionality; the 3D reaction-diffusion equation with spatially dependent no-flux boundary conditions on the reactants reduces to an 1D reaction-diffusion-advection equation. Numerical simulations demonstrate that our analytical results predict properly the nonlinear dependence of the propagation velocity on the ratio of the period of the cross-section’s spatial modulation to the intrinsic width of the wave solution. As a main feature, we observe finite intervals of propagation failure of waves induced by the channel’s modulation.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;exp_design.png&#34; data-caption=&#34;Design of experimental setup&#34;&gt;
+&lt;img src=&#34;exp_design.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Design of experimental setup
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Proofing the assumptions made in our analytic approach, we perform experiments on the propagation of traveling pulses in the Belousov-Zhabotinsky reaction through sinusoidal modulated channels being milled into acryl glas.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;lightsabr.png&#34; data-caption=&#34;Snapshot of LightSabR GUI for experimental control&#34;&gt;
+&lt;img src=&#34;lightsabr.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Snapshot of LightSabR GUI for experimental control
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+#
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;featured.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Analytical, optimal, and sparse optimal control of traveling wave solutions to reaction-diffusion systems</title>
       <link>/publication/journal-article/2016-01-01_analytical_optimal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -59,17 +146,6 @@
       <guid>/project/positioncontrol/</guid>
       <description>&lt;p&gt;The ability to control a desired dynamics or pattern has attracted considerable attention over the last decades. Often, the applied control signals are treated as weak perturbations and an equation of motion for perturbed solution in response to the applied controls is derived. Recently, we&#39;ve posed the inverse question of how to design controls that lead to a propagation of the solution following a desired velocity protocol.&lt;/p&gt;
 &lt;p&gt;In doing so, we&#39;ve proposed an open loop control of wave patterns that acts solely via the Goldstone modes of the system and provides analytical expressions for the control signal to be applied; we coin this approach &lt;em&gt;Goldstone control&lt;/em&gt;. We demonstrated that the latter is able to accelerate or decelerate 1D traveling front and pulse solutions as well as localized spot solutions to 2D reaction-diffusion equations without changing their spatial profile. Moreover, it applies to move the core of a spiral wave at desired velocity along a pre-given trajectory through a 2D spatial domain or to shape iso-concentration lines of 2D traveling pulses. Additionally, we confirmed the optimality of Goldstone control by demonstrating  numerically its equivalence to the solution of an  optimal control problem. To solve the latter, the analytical expressions for the control are excellent initial guesses; substantially speeding-up the time-consuming calculations.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wave propagation in spatially modulated channels</title>
-      <link>/project/rdaconf/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>/project/rdaconf/</guid>
-      <description>&lt;p&gt;Propagation of traveling wave patterns plays in crucial role in various technological and biophysical processes such as catalysis, CO$_2$ sequestration, chemical computing, neural information processing, and self-organized pattern formation in cells. Often, the medium supporting wave propagation exhibits an irregular shape and/or is limited in size, leading to complex wave phenomena.&lt;/p&gt;
-&lt;p&gt;Recently, we have provided a first systematic treatment by applying asymptotic perturbation analysis leading to an approximate description that involves a reduction of dimensionality; the 3D reaction-diffusion equation with spatially dependent no-flux boundary conditions on the reactants reduces to an 1D reaction-diffusion-advection equation. Numerical simulations demonstrate that our analytical results predict properly the nonlinear dependence of the propagation velocity on the ratio of the period of the cross-section’s spatial modulation to the intrinsic width of the wave solution. As a main feature, we observe finite intervals of propagation failure of waves induced by the channel’s modulation.&lt;/p&gt;
-&lt;p&gt;Proofing the assumptions made in our analytic approach, we perform experiments on the propagation of traveling pulses in the Belousov-Zhabotinsky reaction through sinusoidal modulated channels being milled into acryl glas.&lt;/p&gt;
 </description>
     </item>
     

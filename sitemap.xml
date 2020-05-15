@@ -139,17 +139,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -205,6 +195,21 @@
   <url>
     <loc>/talk/tuberlin2019-2/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/confinement/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/rdaconf/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -283,37 +288,12 @@
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/6/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article/2016-01-01_analytical_optimal/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/confinement/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -360,6 +340,11 @@
   <url>
     <loc>/publication/journal-article/2016-01-01_wave_propagation_in_/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -558,11 +543,6 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2012-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/spatially-periodic-potential/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -574,16 +554,6 @@
   
   <url>
     <loc>/tags/thermally-activated-transport/</loc>
-    <lastmod>2012-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/entropic-transport/</loc>
-    <lastmod>2012-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/rdaconf/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -750,6 +720,11 @@
   <url>
     <loc>/talk/fuberlin2008-1/</loc>
     <lastmod>2008-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/entropic-transport/</loc>
+    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

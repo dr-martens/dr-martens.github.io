@@ -5,12 +5,99 @@
     <link>/tags/confinement/</link>
       <atom:link href="/tags/confinement/index.xml" rel="self" type="application/rss+xml" />
     <description>Confinement</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Confinement</title>
       <link>/tags/confinement/</link>
     </image>
+    
+    <item>
+      <title>Wave propagation in spatially modulated channels</title>
+      <link>/project/rdaconf/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/project/rdaconf/</guid>
+      <description>&lt;p&gt;Propagation of traveling wave patterns plays in crucial role in various technological and biophysical processes such as catalysis, CO$_2$ sequestration, chemical computing, neural information processing, and self-organized pattern formation in cells. Often, the medium supporting wave propagation exhibits an irregular shape and/or is limited in size, leading to complex wave phenomena.&lt;/p&gt;
+&lt;p&gt;Recently, we have provided a first systematic treatment by applying asymptotic perturbation analysis leading to an approximate description that involves a reduction of dimensionality; the 3D reaction-diffusion equation with spatially dependent no-flux boundary conditions on the reactants reduces to an 1D reaction-diffusion-advection equation. Numerical simulations demonstrate that our analytical results predict properly the nonlinear dependence of the propagation velocity on the ratio of the period of the cross-section’s spatial modulation to the intrinsic width of the wave solution. As a main feature, we observe finite intervals of propagation failure of waves induced by the channel’s modulation.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;exp_design.png&#34; data-caption=&#34;Design of experimental setup&#34;&gt;
+&lt;img src=&#34;exp_design.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Design of experimental setup
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Proofing the assumptions made in our analytic approach, we perform experiments on the propagation of traveling pulses in the Belousov-Zhabotinsky reaction through sinusoidal modulated channels being milled into acryl glas.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;lightsabr.png&#34; data-caption=&#34;Snapshot of LightSabR GUI for experimental control&#34;&gt;
+&lt;img src=&#34;lightsabr.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Snapshot of LightSabR GUI for experimental control
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+#
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;featured.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Note: From reaction-diffusion systems to confined Brownian motion</title>
@@ -82,26 +169,6 @@
     </item>
     
     <item>
-      <title>Transport in confined geometries</title>
-      <link>/project/entropic-transport/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>/project/entropic-transport/</guid>
-      <description>&lt;p&gt;Diffusive transport of particles or, more generally, small objects, is a ubiquitous feature of physical and chemical reaction systems. In microsized geometries containing confining walls and constrictions, transport is controlled both by the fluctuation statistics of the jittering objects and the phase space available to their dynamics. Consequently, the study of transport at the macro- and nano-scales must address both Brownian motion and entropic effects. For particles undergoing biased diffusion in static suspension media enclosed by confining geometries, transport exhibits intriguing features such as 1) a decrease in the particle mobility with increasing temperature or also 2) a broad excess peak of the effective diffusion above the free diffusion limit resulting in a violation of the Sutherland-Einstein fluctuation-dissipation relation. These paradoxical aspects can be understood in terms of entropic contributions resulting from the restricted dynamics in phase space.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wave propagation in spatially modulated channels</title>
-      <link>/project/rdaconf/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>/project/rdaconf/</guid>
-      <description>&lt;p&gt;Propagation of traveling wave patterns plays in crucial role in various technological and biophysical processes such as catalysis, CO$_2$ sequestration, chemical computing, neural information processing, and self-organized pattern formation in cells. Often, the medium supporting wave propagation exhibits an irregular shape and/or is limited in size, leading to complex wave phenomena.&lt;/p&gt;
-&lt;p&gt;Recently, we have provided a first systematic treatment by applying asymptotic perturbation analysis leading to an approximate description that involves a reduction of dimensionality; the 3D reaction-diffusion equation with spatially dependent no-flux boundary conditions on the reactants reduces to an 1D reaction-diffusion-advection equation. Numerical simulations demonstrate that our analytical results predict properly the nonlinear dependence of the propagation velocity on the ratio of the period of the cross-section’s spatial modulation to the intrinsic width of the wave solution. As a main feature, we observe finite intervals of propagation failure of waves induced by the channel’s modulation.&lt;/p&gt;
-&lt;p&gt;Proofing the assumptions made in our analytic approach, we perform experiments on the propagation of traveling pulses in the Belousov-Zhabotinsky reaction through sinusoidal modulated channels being milled into acryl glas.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Communication: Impact of inertia on biased Brownian transport in confined geometries</title>
       <link>/publication/journal-article/2012-01-01_communication_impact/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
@@ -131,6 +198,15 @@
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/2011-01-01_entropic_particle_tr/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Transport in confined geometries</title>
+      <link>/project/entropic-transport/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>/project/entropic-transport/</guid>
+      <description>&lt;p&gt;Diffusive transport of particles or, more generally, small objects, is a ubiquitous feature of physical and chemical reaction systems. In microsized geometries containing confining walls and constrictions, transport is controlled both by the fluctuation statistics of the jittering objects and the phase space available to their dynamics. Consequently, the study of transport at the macro- and nano-scales must address both Brownian motion and entropic effects. For particles undergoing biased diffusion in static suspension media enclosed by confining geometries, transport exhibits intriguing features such as 1) a decrease in the particle mobility with increasing temperature or also 2) a broad excess peak of the effective diffusion above the free diffusion limit resulting in a violation of the Sutherland-Einstein fluctuation-dissipation relation. These paradoxical aspects can be understood in terms of entropic contributions resulting from the restricted dynamics in phase space.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

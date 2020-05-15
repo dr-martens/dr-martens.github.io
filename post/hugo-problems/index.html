@@ -686,10 +686,7 @@ bibtex_2academic &lt;- function(bibfile,
       }
       write(&quot;abstract_short: &quot;, fileConn, append = T)
       
-      # Authors. Comma separated list, e.g. `[&quot;Bob Smith&quot;, &quot;David Jones&quot;]`.
-      # auth_hugo &lt;- str_replace_all(x[&quot;author&quot;], &quot; and &quot;, &quot;\&quot;, \&quot;&quot;)
-      # auth_hugo &lt;- stringi::stri_trans_general(auth_hugo, &quot;latin-ascii&quot;)
-      # write(paste0(&quot;authors = [\&quot;&quot;, auth_hugo,&quot;\&quot;]&quot;), fileConn, append = T)
+      # Authors
       auth_hugo &lt;- unlist(strsplit(x[&quot;author&quot;], &quot; and &quot;))
       
       # replace German Umlaute
@@ -804,12 +801,11 @@ bibtex_2academic(bibfile  = my_bibfile,
 </code></pre>
 <h2 id="cv">CV</h2>
 <p>To add a CV button to header line, one has to include the code below into <code>config/_default/menus.toml</code></p>
-<h1 id="link-to-a-pdf-of-your-resumecv-from-the-menu">Link to a PDF of your resume/CV from the menu.</h1>
-<h1 id="to-enable-copy-your-resumecv-to-staticfilescvpdf-and-uncomment-the-lines-below">To enable, copy your resume/CV to <code>static/files/cv.pdf</code> and uncomment the lines below.</h1>
-<p>[[main]]
-name = &ldquo;CV&rdquo;
-url = &ldquo;files/cv.pdf&rdquo;
-weight = 60</p>
+<pre><code class="language-markdown">[[main]]
+  name = &quot;CV&quot;
+  url = &quot;files/cv.pdf&quot;
+  weight = 60
+</code></pre>
 <h3 id="code">Code</h3>
 <p>Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the <code>highlight</code> option in your <code>config/_default/params.toml</code> file.</p>
 <pre><code>```python
@@ -1014,7 +1010,6 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
   </div>
 </div>
-<h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌</h3>
 
     </div>
 
