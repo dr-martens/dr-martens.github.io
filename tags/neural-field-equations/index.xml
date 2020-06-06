@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neural Field Equations | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/tags/neural-field-equations/</link>
-      <atom:link href="https://www.martens.tech/tags/neural-field-equations/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/neural-field-equations/</link>
+      <atom:link href="/tags/neural-field-equations/index.xml" rel="self" type="application/rss+xml" />
     <description>Neural Field Equations</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Neural Field Equations</title>
-      <link>https://www.martens.tech/tags/neural-field-equations/</link>
+      <link>/tags/neural-field-equations/</link>
     </image>
     
     <item>
       <title>Control of nonlinear wave solutions to neural field equations</title>
-      <link>https://www.martens.tech/publication/journal-article/2019-01-01_control_of_nonlinear/</link>
+      <link>/publication/journal-article/2019-01-01_control_of_nonlinear/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2019-01-01_control_of_nonlinear/</guid>
+      <guid>/publication/journal-article/2019-01-01_control_of_nonlinear/</guid>
       <description></description>
     </item>
     

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lutz Schimansky-Geier | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/authors/lutz-schimansky-geier/</link>
-      <atom:link href="https://www.martens.tech/authors/lutz-schimansky-geier/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/lutz-schimansky-geier/</link>
+      <atom:link href="/authors/lutz-schimansky-geier/index.xml" rel="self" type="application/rss+xml" />
     <description>Lutz Schimansky-Geier</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Lutz Schimansky-Geier</title>
-      <link>https://www.martens.tech/authors/lutz-schimansky-geier/</link>
+      <link>/authors/lutz-schimansky-geier/</link>
     </image>
     
     <item>
       <title>Giant enhancement of hydrodynamically enforced entropic trapping in thin channels</title>
-      <link>https://www.martens.tech/publication/journal-article/2014-01-01_giant_enhancement_of/</link>
+      <link>/publication/journal-article/2014-01-01_giant_enhancement_of/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2014-01-01_giant_enhancement_of/</guid>
+      <guid>/publication/journal-article/2014-01-01_giant_enhancement_of/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrodynamically enforced entropic trapping of Brownian particles</title>
-      <link>https://www.martens.tech/publication/journal-article/2013-01-01_hydrodynamically_enf/</link>
+      <link>/publication/journal-article/2013-01-01_hydrodynamically_enf/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2013-01-01_hydrodynamically_enf/</guid>
+      <guid>/publication/journal-article/2013-01-01_hydrodynamically_enf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communication: Impact of inertia on biased Brownian transport in confined geometries</title>
-      <link>https://www.martens.tech/publication/journal-article/2012-01-01_communication_impact/</link>
+      <link>/publication/journal-article/2012-01-01_communication_impact/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2012-01-01_communication_impact/</guid>
+      <guid>/publication/journal-article/2012-01-01_communication_impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Driven Brownian transport through arrays of symmetric obstacles</title>
-      <link>https://www.martens.tech/publication/journal-article/2012-01-01_driven_brownian_tran/</link>
+      <link>/publication/journal-article/2012-01-01_driven_brownian_tran/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2012-01-01_driven_brownian_tran/</guid>
+      <guid>/publication/journal-article/2012-01-01_driven_brownian_tran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biased Brownian motion in extreme corrugated tubes</title>
-      <link>https://www.martens.tech/publication/journal-article/2011-01-01_biased_brownian_moti/</link>
+      <link>/publication/journal-article/2011-01-01_biased_brownian_moti/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2011-01-01_biased_brownian_moti/</guid>
+      <guid>/publication/journal-article/2011-01-01_biased_brownian_moti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropic particle transport: Higher-order corrections to the Fick-Jacobs diffusion equation</title>
-      <link>https://www.martens.tech/publication/journal-article/2011-01-01_entropic_particle_tr/</link>
+      <link>/publication/journal-article/2011-01-01_entropic_particle_tr/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2011-01-01_entropic_particle_tr/</guid>
+      <guid>/publication/journal-article/2011-01-01_entropic_particle_tr/</guid>
       <description></description>
     </item>
     

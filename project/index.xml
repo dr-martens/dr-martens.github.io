@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/project/</link>
-      <atom:link href="https://www.martens.tech/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://www.martens.tech/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>Wave propagation in spatially modulated channels</title>
-      <link>https://www.martens.tech/project/rdaconf/</link>
+      <link>/project/rdaconf/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/rdaconf/</guid>
+      <guid>/project/rdaconf/</guid>
       <description>&lt;p&gt;Propagation of traveling wave patterns plays in crucial role in various technological and biophysical processes such as catalysis, CO$_2$ sequestration, chemical computing, neural information processing, and self-organized pattern formation in cells. Often, the medium supporting wave propagation exhibits an irregular shape and/or is limited in size, leading to complex wave phenomena.&lt;/p&gt;
 &lt;p&gt;Recently, we have provided a first systematic treatment by applying asymptotic perturbation analysis leading to an approximate description that involves a reduction of dimensionality; the 3D reaction-diffusion equation with spatially dependent no-flux boundary conditions on the reactants reduces to an 1D reaction-diffusion-advection equation. Numerical simulations demonstrate that our analytical results predict properly the nonlinear dependence of the propagation velocity on the ratio of the period of the cross-section’s spatial modulation to the intrinsic width of the wave solution. As a main feature, we observe finite intervals of propagation failure of waves induced by the channel’s modulation.&lt;/p&gt;
 
@@ -101,9 +101,9 @@
     
     <item>
       <title>Hydrodynamically enforced entropic trapping</title>
-      <link>https://www.martens.tech/project/heet/</link>
+      <link>/project/heet/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/heet/</guid>
+      <guid>/project/heet/</guid>
       <description>&lt;p&gt;Effective control of mass and charge transport attracts ever growing interest within several communities and diverse disciplines. In modern separation devices various kind of forces are used to separate size-dispersed objects, e.g., colloids, cells, or DNA, on micro- or even nanoscales. Often, the motion of these objects proceeds within confining geometries like in Lab-on-Chip devices, microfluidic channels, or vector chromatography arrays. In particular, for uneven boundaries entropic effects caused by non-holomic constraints are important. A deep understanding of these entropic contribution is significant in order to effectively control particle transport at microscale level. In view of its importance, recent efforts in theory triggered activities which allow for an approximate description that involves a reduction of dimensionality; thus making detailed predictions tractable. Up to present days, the focus  was on the role of conservative forces and its interplay with confinement.&lt;/p&gt;
 &lt;p&gt;Recently, we overcame this limitation and derived a generalization of the Fick-Jacobs approach for the most general force which can involve both, the curl-free and the divergence-free components. Particularly, the latter is essential for particle transport caused by e.g. laminar solvent flows or dielectrophoretic forces. For arbitrarily corrugated channel geometry, one can put forward an effective one-dimensional description involving the potential of mean force, which along with the commonly known entropic contribution in presence of a constant bias, acquires a qualitatively novel contribution associated with divergence-free forces.&lt;/p&gt;
 &lt;p&gt;A relevant application is the fluid flow across microfludic structures where a solute of Brownian particles is subject to both, an external bias and a pressure-driven flow.  At a critical ratio of these counteracting tendencies, the mean particle current can identically vanish, despite the presence of locally strong forces, and being accompanied by a colossal suppression of diffusion. This in turn yields our major finding; namely, the phenomenon of &lt;em&gt;hydrodynamically enforced entropic trapping&lt;/em&gt; (HEET) of Brownian particles. HEET offers a unique opportunity to efficiently separate particles of the same size based on their different response to the applied constant stimuli, e.g., to sift healthy cells from diseased and dead cells. Even small distinctions in the response can be used to trap a certain particle
@@ -114,9 +114,9 @@
     
     <item>
       <title>Inverse problems in nonlinear wave propagation</title>
-      <link>https://www.martens.tech/project/positioncontrol/</link>
+      <link>/project/positioncontrol/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/positioncontrol/</guid>
+      <guid>/project/positioncontrol/</guid>
       <description>&lt;p&gt;The ability to control a desired dynamics or pattern has attracted considerable attention over the last decades. Often, the applied control signals are treated as weak perturbations and an equation of motion for perturbed solution in response to the applied controls is derived. Recently, we&#39;ve posed the inverse question of how to design controls that lead to a propagation of the solution following a desired velocity protocol.&lt;/p&gt;
 &lt;p&gt;In doing so, we&#39;ve proposed an open loop control of wave patterns that acts solely via the Goldstone modes of the system and provides analytical expressions for the control signal to be applied; we coin this approach &lt;em&gt;Goldstone control&lt;/em&gt;. We demonstrated that the latter is able to accelerate or decelerate 1D traveling front and pulse solutions as well as localized spot solutions to 2D reaction-diffusion equations without changing their spatial profile. Moreover, it applies to move the core of a spiral wave at desired velocity along a pre-given trajectory through a 2D spatial domain or to shape iso-concentration lines of 2D traveling pulses. Additionally, we confirmed the optimality of Goldstone control by demonstrating  numerically its equivalence to the solution of an  optimal control problem. To solve the latter, the analytical expressions for the control are excellent initial guesses; substantially speeding-up the time-consuming calculations.&lt;/p&gt;
 </description>
@@ -124,9 +124,9 @@
     
     <item>
       <title>Thermally activated escape over potential barriers</title>
-      <link>https://www.martens.tech/project/nonlinearoscchains/</link>
+      <link>/project/nonlinearoscchains/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/nonlinearoscchains/</guid>
+      <guid>/project/nonlinearoscchains/</guid>
       <description>&lt;p&gt;Transport phenomena play a fundamental role in many physical systems. For systems that evolve in an external potential which possesses metastable states the thermally activated escape over potential barriers, as the precondition for transport, is the mostly studied situation. Due to its ubiquity and simplicity a spatially periodic potential is employed in a number of applications including Josephson tunneling junctions , phase-locked loops , rotation of dipoles, charge-density wave, dislocation, diffusion of atoms and molecules on crystal surfaces, biophysical processes such as neural activity and intracellular transport.&lt;/p&gt;
 &lt;p&gt;Actually, I investigate the Langevin dynamics in the high-friction limit of a dimer, consisting of two Brownian particles coupled by interaction potentials, absorbed on a one-dimensional periodic substrate and subjected to an external localized point force:&lt;/p&gt;
 &lt;ul&gt;
@@ -140,9 +140,9 @@
     
     <item>
       <title>Transport in confined geometries</title>
-      <link>https://www.martens.tech/project/entropic-transport/</link>
+      <link>/project/entropic-transport/</link>
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/entropic-transport/</guid>
+      <guid>/project/entropic-transport/</guid>
       <description>&lt;p&gt;Diffusive transport of particles or, more generally, small objects, is a ubiquitous feature of physical and chemical reaction systems. In microsized geometries containing confining walls and constrictions, transport is controlled both by the fluctuation statistics of the jittering objects and the phase space available to their dynamics. Consequently, the study of transport at the macro- and nano-scales must address both Brownian motion and entropic effects. For particles undergoing biased diffusion in static suspension media enclosed by confining geometries, transport exhibits intriguing features such as 1) a decrease in the particle mobility with increasing temperature or also 2) a broad excess peak of the effective diffusion above the free diffusion limit resulting in a violation of the Sutherland-Einstein fluctuation-dissipation relation. These paradoxical aspects can be understood in terms of entropic contributions resulting from the restricted dynamics in phase space.&lt;/p&gt;
 </description>
     </item>

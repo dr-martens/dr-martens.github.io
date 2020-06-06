@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Confinement | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/tags/confinement/</link>
-      <atom:link href="https://www.martens.tech/tags/confinement/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/confinement/</link>
+      <atom:link href="/tags/confinement/index.xml" rel="self" type="application/rss+xml" />
     <description>Confinement</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Confinement</title>
-      <link>https://www.martens.tech/tags/confinement/</link>
+      <link>/tags/confinement/</link>
     </image>
     
     <item>
       <title>Wave propagation in spatially modulated channels</title>
-      <link>https://www.martens.tech/project/rdaconf/</link>
+      <link>/project/rdaconf/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/rdaconf/</guid>
+      <guid>/project/rdaconf/</guid>
       <description>&lt;p&gt;Propagation of traveling wave patterns plays in crucial role in various technological and biophysical processes such as catalysis, CO$_2$ sequestration, chemical computing, neural information processing, and self-organized pattern formation in cells. Often, the medium supporting wave propagation exhibits an irregular shape and/or is limited in size, leading to complex wave phenomena.&lt;/p&gt;
 &lt;p&gt;Recently, we have provided a first systematic treatment by applying asymptotic perturbation analysis leading to an approximate description that involves a reduction of dimensionality; the 3D reaction-diffusion equation with spatially dependent no-flux boundary conditions on the reactants reduces to an 1D reaction-diffusion-advection equation. Numerical simulations demonstrate that our analytical results predict properly the nonlinear dependence of the propagation velocity on the ratio of the period of the cross-section’s spatial modulation to the intrinsic width of the wave solution. As a main feature, we observe finite intervals of propagation failure of waves induced by the channel’s modulation.&lt;/p&gt;
 
@@ -101,65 +101,65 @@
     
     <item>
       <title>Note: From reaction-diffusion systems to confined Brownian motion</title>
-      <link>https://www.martens.tech/publication/journal-article/2016-01-01_note_from_reaction-d/</link>
+      <link>/publication/journal-article/2016-01-01_note_from_reaction-d/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2016-01-01_note_from_reaction-d/</guid>
+      <guid>/publication/journal-article/2016-01-01_note_from_reaction-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wave propagation in spatially modulated tubes</title>
-      <link>https://www.martens.tech/publication/journal-article/2016-01-01_wave_propagation_in_/</link>
+      <link>/publication/journal-article/2016-01-01_wave_propagation_in_/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2016-01-01_wave_propagation_in_/</guid>
+      <guid>/publication/journal-article/2016-01-01_wave_propagation_in_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Front propagation in channels with spatially modulated cross section</title>
-      <link>https://www.martens.tech/publication/journal-article/2015-01-01_front_propagation_in/</link>
+      <link>/publication/journal-article/2015-01-01_front_propagation_in/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2015-01-01_front_propagation_in/</guid>
+      <guid>/publication/journal-article/2015-01-01_front_propagation_in/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Giant enhancement of hydrodynamically enforced entropic trapping in thin channels</title>
-      <link>https://www.martens.tech/publication/journal-article/2014-01-01_giant_enhancement_of/</link>
+      <link>/publication/journal-article/2014-01-01_giant_enhancement_of/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2014-01-01_giant_enhancement_of/</guid>
+      <guid>/publication/journal-article/2014-01-01_giant_enhancement_of/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How entropy and hydrodynamics cooperate in rectifying particle transport</title>
-      <link>https://www.martens.tech/publication/journal-article/2013-01-01_how_entropy_and_hydr/</link>
+      <link>/publication/journal-article/2013-01-01_how_entropy_and_hydr/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2013-01-01_how_entropy_and_hydr/</guid>
+      <guid>/publication/journal-article/2013-01-01_how_entropy_and_hydr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrodynamically enforced entropic trapping of Brownian particles</title>
-      <link>https://www.martens.tech/publication/journal-article/2013-01-01_hydrodynamically_enf/</link>
+      <link>/publication/journal-article/2013-01-01_hydrodynamically_enf/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2013-01-01_hydrodynamically_enf/</guid>
+      <guid>/publication/journal-article/2013-01-01_hydrodynamically_enf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transport of Brownian particles in confined geometries: Steps beyond the Fick-Jacobs approach</title>
-      <link>https://www.martens.tech/publication/thesis/2013-01-01_transport_of_brownia/</link>
+      <link>/publication/thesis/2013-01-01_transport_of_brownia/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/thesis/2013-01-01_transport_of_brownia/</guid>
+      <guid>/publication/thesis/2013-01-01_transport_of_brownia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrodynamically enforced entropic trapping</title>
-      <link>https://www.martens.tech/project/heet/</link>
+      <link>/project/heet/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/heet/</guid>
+      <guid>/project/heet/</guid>
       <description>&lt;p&gt;Effective control of mass and charge transport attracts ever growing interest within several communities and diverse disciplines. In modern separation devices various kind of forces are used to separate size-dispersed objects, e.g., colloids, cells, or DNA, on micro- or even nanoscales. Often, the motion of these objects proceeds within confining geometries like in Lab-on-Chip devices, microfluidic channels, or vector chromatography arrays. In particular, for uneven boundaries entropic effects caused by non-holomic constraints are important. A deep understanding of these entropic contribution is significant in order to effectively control particle transport at microscale level. In view of its importance, recent efforts in theory triggered activities which allow for an approximate description that involves a reduction of dimensionality; thus making detailed predictions tractable. Up to present days, the focus  was on the role of conservative forces and its interplay with confinement.&lt;/p&gt;
 &lt;p&gt;Recently, we overcame this limitation and derived a generalization of the Fick-Jacobs approach for the most general force which can involve both, the curl-free and the divergence-free components. Particularly, the latter is essential for particle transport caused by e.g. laminar solvent flows or dielectrophoretic forces. For arbitrarily corrugated channel geometry, one can put forward an effective one-dimensional description involving the potential of mean force, which along with the commonly known entropic contribution in presence of a constant bias, acquires a qualitatively novel contribution associated with divergence-free forces.&lt;/p&gt;
 &lt;p&gt;A relevant application is the fluid flow across microfludic structures where a solute of Brownian particles is subject to both, an external bias and a pressure-driven flow.  At a critical ratio of these counteracting tendencies, the mean particle current can identically vanish, despite the presence of locally strong forces, and being accompanied by a colossal suppression of diffusion. This in turn yields our major finding; namely, the phenomenon of &lt;em&gt;hydrodynamically enforced entropic trapping&lt;/em&gt; (HEET) of Brownian particles. HEET offers a unique opportunity to efficiently separate particles of the same size based on their different response to the applied constant stimuli, e.g., to sift healthy cells from diseased and dead cells. Even small distinctions in the response can be used to trap a certain particle
@@ -170,41 +170,41 @@
     
     <item>
       <title>Communication: Impact of inertia on biased Brownian transport in confined geometries</title>
-      <link>https://www.martens.tech/publication/journal-article/2012-01-01_communication_impact/</link>
+      <link>/publication/journal-article/2012-01-01_communication_impact/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2012-01-01_communication_impact/</guid>
+      <guid>/publication/journal-article/2012-01-01_communication_impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Driven Brownian transport through arrays of symmetric obstacles</title>
-      <link>https://www.martens.tech/publication/journal-article/2012-01-01_driven_brownian_tran/</link>
+      <link>/publication/journal-article/2012-01-01_driven_brownian_tran/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2012-01-01_driven_brownian_tran/</guid>
+      <guid>/publication/journal-article/2012-01-01_driven_brownian_tran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biased Brownian motion in extreme corrugated tubes</title>
-      <link>https://www.martens.tech/publication/journal-article/2011-01-01_biased_brownian_moti/</link>
+      <link>/publication/journal-article/2011-01-01_biased_brownian_moti/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2011-01-01_biased_brownian_moti/</guid>
+      <guid>/publication/journal-article/2011-01-01_biased_brownian_moti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropic particle transport: Higher-order corrections to the Fick-Jacobs diffusion equation</title>
-      <link>https://www.martens.tech/publication/journal-article/2011-01-01_entropic_particle_tr/</link>
+      <link>/publication/journal-article/2011-01-01_entropic_particle_tr/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2011-01-01_entropic_particle_tr/</guid>
+      <guid>/publication/journal-article/2011-01-01_entropic_particle_tr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transport in confined geometries</title>
-      <link>https://www.martens.tech/project/entropic-transport/</link>
+      <link>/project/entropic-transport/</link>
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/entropic-transport/</guid>
+      <guid>/project/entropic-transport/</guid>
       <description>&lt;p&gt;Diffusive transport of particles or, more generally, small objects, is a ubiquitous feature of physical and chemical reaction systems. In microsized geometries containing confining walls and constrictions, transport is controlled both by the fluctuation statistics of the jittering objects and the phase space available to their dynamics. Consequently, the study of transport at the macro- and nano-scales must address both Brownian motion and entropic effects. For particles undergoing biased diffusion in static suspension media enclosed by confining geometries, transport exhibits intriguing features such as 1) a decrease in the particle mobility with increasing temperature or also 2) a broad excess peak of the effective diffusion above the free diffusion limit resulting in a violation of the Sutherland-Einstein fluctuation-dissipation relation. These paradoxical aspects can be understood in terms of entropic contributions resulting from the restricted dynamics in phase space.&lt;/p&gt;
 </description>
     </item>

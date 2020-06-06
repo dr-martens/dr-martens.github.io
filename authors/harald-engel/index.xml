@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harald Engel | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/authors/harald-engel/</link>
-      <atom:link href="https://www.martens.tech/authors/harald-engel/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/harald-engel/</link>
+      <atom:link href="/authors/harald-engel/index.xml" rel="self" type="application/rss+xml" />
     <description>Harald Engel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Harald Engel</title>
-      <link>https://www.martens.tech/authors/harald-engel/</link>
+      <link>/authors/harald-engel/</link>
     </image>
     
     <item>
       <title>Control of traveling localized spots</title>
-      <link>https://www.martens.tech/publication/preprint/2020-01-01_control_of_traveling/</link>
+      <link>/publication/preprint/2020-01-01_control_of_traveling/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/preprint/2020-01-01_control_of_traveling/</guid>
+      <guid>/publication/preprint/2020-01-01_control_of_traveling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Control of nonlinear wave solutions to neural field equations</title>
-      <link>https://www.martens.tech/publication/journal-article/2019-01-01_control_of_nonlinear/</link>
+      <link>/publication/journal-article/2019-01-01_control_of_nonlinear/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2019-01-01_control_of_nonlinear/</guid>
+      <guid>/publication/journal-article/2019-01-01_control_of_nonlinear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical, optimal, and sparse optimal control of traveling wave solutions to reaction-diffusion systems</title>
-      <link>https://www.martens.tech/publication/journal-article/2016-01-01_analytical_optimal/</link>
+      <link>/publication/journal-article/2016-01-01_analytical_optimal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2016-01-01_analytical_optimal/</guid>
+      <guid>/publication/journal-article/2016-01-01_analytical_optimal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wave propagation in spatially modulated tubes</title>
-      <link>https://www.martens.tech/publication/journal-article/2016-01-01_wave_propagation_in_/</link>
+      <link>/publication/journal-article/2016-01-01_wave_propagation_in_/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2016-01-01_wave_propagation_in_/</guid>
+      <guid>/publication/journal-article/2016-01-01_wave_propagation_in_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Front propagation in channels with spatially modulated cross section</title>
-      <link>https://www.martens.tech/publication/journal-article/2015-01-01_front_propagation_in/</link>
+      <link>/publication/journal-article/2015-01-01_front_propagation_in/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2015-01-01_front_propagation_in/</guid>
+      <guid>/publication/journal-article/2015-01-01_front_propagation_in/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shaping wave patterns in reaction-diffusion systems</title>
-      <link>https://www.martens.tech/publication/journal-article/2014-01-01_shaping_wave_pattern/</link>
+      <link>/publication/journal-article/2014-01-01_shaping_wave_pattern/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2014-01-01_shaping_wave_pattern/</guid>
+      <guid>/publication/journal-article/2014-01-01_shaping_wave_pattern/</guid>
       <description></description>
     </item>
     

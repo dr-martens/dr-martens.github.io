@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Igor M Sokolov | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/authors/igor-m-sokolov/</link>
-      <atom:link href="https://www.martens.tech/authors/igor-m-sokolov/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/igor-m-sokolov/</link>
+      <atom:link href="/authors/igor-m-sokolov/index.xml" rel="self" type="application/rss+xml" />
     <description>Igor M Sokolov</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Igor M Sokolov</title>
-      <link>https://www.martens.tech/authors/igor-m-sokolov/</link>
+      <link>/authors/igor-m-sokolov/</link>
     </image>
     
     <item>
       <title>Communication: Impact of inertia on biased Brownian transport in confined geometries</title>
-      <link>https://www.martens.tech/publication/journal-article/2012-01-01_communication_impact/</link>
+      <link>/publication/journal-article/2012-01-01_communication_impact/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2012-01-01_communication_impact/</guid>
+      <guid>/publication/journal-article/2012-01-01_communication_impact/</guid>
       <description></description>
     </item>
     

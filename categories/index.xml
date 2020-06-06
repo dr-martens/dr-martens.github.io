@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/categories/</link>
-      <atom:link href="https://www.martens.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://www.martens.tech/categories/</link>
+      <link>/categories/</link>
     </image>
     
     <item>
       <title>R</title>
-      <link>https://www.martens.tech/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://www.martens.tech/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     

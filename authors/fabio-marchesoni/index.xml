@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fabio Marchesoni | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/authors/fabio-marchesoni/</link>
-      <atom:link href="https://www.martens.tech/authors/fabio-marchesoni/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/fabio-marchesoni/</link>
+      <atom:link href="/authors/fabio-marchesoni/index.xml" rel="self" type="application/rss+xml" />
     <description>Fabio Marchesoni</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Fabio Marchesoni</title>
-      <link>https://www.martens.tech/authors/fabio-marchesoni/</link>
+      <link>/authors/fabio-marchesoni/</link>
     </image>
     
     <item>
       <title>Driven Brownian transport through arrays of symmetric obstacles</title>
-      <link>https://www.martens.tech/publication/journal-article/2012-01-01_driven_brownian_tran/</link>
+      <link>/publication/journal-article/2012-01-01_driven_brownian_tran/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2012-01-01_driven_brownian_tran/</guid>
+      <guid>/publication/journal-article/2012-01-01_driven_brownian_tran/</guid>
       <description></description>
     </item>
     

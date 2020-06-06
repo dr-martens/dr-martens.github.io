@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/</link>
-      <atom:link href="https://www.martens.tech/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Steffen Martens</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Dr. Steffen Martens</title>
-      <link>https://www.martens.tech/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://www.martens.tech/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.martens.tech/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&#39;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://www.martens.tech/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.martens.tech/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,33 +56,33 @@
     
     <item>
       <title>Invited talk: Straight-line regression in errors-in-variables models</title>
-      <link>https://www.martens.tech/talk/paris2020-1/</link>
+      <link>/talk/paris2020-1/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/paris2020-1/</guid>
+      <guid>/talk/paris2020-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Control of traveling localized spots</title>
-      <link>https://www.martens.tech/publication/preprint/2020-01-01_control_of_traveling/</link>
+      <link>/publication/preprint/2020-01-01_control_of_traveling/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/preprint/2020-01-01_control_of_traveling/</guid>
+      <guid>/publication/preprint/2020-01-01_control_of_traveling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Straight-line regression in errors-in-variables models -- Comparing different GUM uncertainty evaluations</title>
-      <link>https://www.martens.tech/publication/preprint/2020-01-01_straight-line_regres/</link>
+      <link>/publication/preprint/2020-01-01_straight-line_regres/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/preprint/2020-01-01_straight-line_regres/</guid>
+      <guid>/publication/preprint/2020-01-01_straight-line_regres/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My notes on Hugo Problems</title>
-      <link>https://www.martens.tech/post/hugo-problems/</link>
+      <link>/post/hugo-problems/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/post/hugo-problems/</guid>
+      <guid>/post/hugo-problems/</guid>
       <description>&lt;p&gt;On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
 &lt;h2 id=&#34;alignment-of-menus&#34;&gt;Alignment of menus&lt;/h2&gt;
 &lt;p&gt;Academic theme contains &lt;code&gt;config\_default\params.toml&lt;/code&gt; where users can specify the menu alignment in the &amp;ldquo;Advanced&amp;rdquo; section.&lt;/p&gt;
@@ -519,9 +519,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Slides</title>
-      <link>https://www.martens.tech/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -647,65 +647,65 @@ Three
     
     <item>
       <title>Control of nonlinear wave solutions to neural field equations</title>
-      <link>https://www.martens.tech/publication/journal-article/2019-01-01_control_of_nonlinear/</link>
+      <link>/publication/journal-article/2019-01-01_control_of_nonlinear/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2019-01-01_control_of_nonlinear/</guid>
+      <guid>/publication/journal-article/2019-01-01_control_of_nonlinear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Invited talk:</title>
-      <link>https://www.martens.tech/talk/erfurt2019-1/</link>
+      <link>/talk/erfurt2019-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/erfurt2019-1/</guid>
+      <guid>/talk/erfurt2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/ptbberlin2019-1/</link>
+      <link>/talk/ptbberlin2019-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/ptbberlin2019-1/</guid>
+      <guid>/talk/ptbberlin2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/frankfurt2019-1/</link>
+      <link>/talk/frankfurt2019-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/frankfurt2019-1/</guid>
+      <guid>/talk/frankfurt2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/lissabon2019-1/</link>
+      <link>/talk/lissabon2019-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/lissabon2019-1/</guid>
+      <guid>/talk/lissabon2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial:</title>
-      <link>https://www.martens.tech/talk/tuberlin2019-1/</link>
+      <link>/talk/tuberlin2019-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2019-1/</guid>
+      <guid>/talk/tuberlin2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial:</title>
-      <link>https://www.martens.tech/talk/tuberlin2019-2/</link>
+      <link>/talk/tuberlin2019-2/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2019-2/</guid>
+      <guid>/talk/tuberlin2019-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wave propagation in spatially modulated channels</title>
-      <link>https://www.martens.tech/project/rdaconf/</link>
+      <link>/project/rdaconf/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/rdaconf/</guid>
+      <guid>/project/rdaconf/</guid>
       <description>&lt;p&gt;Propagation of traveling wave patterns plays in crucial role in various technological and biophysical processes such as catalysis, CO$_2$ sequestration, chemical computing, neural information processing, and self-organized pattern formation in cells. Often, the medium supporting wave propagation exhibits an irregular shape and/or is limited in size, leading to complex wave phenomena.&lt;/p&gt;
 &lt;p&gt;Recently, we have provided a first systematic treatment by applying asymptotic perturbation analysis leading to an approximate description that involves a reduction of dimensionality; the 3D reaction-diffusion equation with spatially dependent no-flux boundary conditions on the reactants reduces to an 1D reaction-diffusion-advection equation. Numerical simulations demonstrate that our analytical results predict properly the nonlinear dependence of the propagation velocity on the ratio of the period of the cross-section’s spatial modulation to the intrinsic width of the wave solution. As a main feature, we observe finite intervals of propagation failure of waves induced by the channel’s modulation.&lt;/p&gt;
 
@@ -790,185 +790,203 @@ Three
     
     <item>
       <title>Poster: Inverse problems in nonlinear wave propagation</title>
-      <link>https://www.martens.tech/talk/warnemunde2018-1/</link>
+      <link>/talk/warnemunde2018-1/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/warnemunde2018-1/</guid>
+      <guid>/talk/warnemunde2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminar:</title>
+      <link>/talk/tuberlin2018-1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/tuberlin2018-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/tuberlin2018-1/</link>
+      <link>/talk/tuberlin2018-2/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2018-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/tuberlin2018-2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2018-2/</guid>
+      <guid>/talk/tuberlin2018-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>talks:</title>
-      <link>https://www.martens.tech/talk/berlin2018-1/</link>
+      <link>/talk/berlin2018-1/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2018-1/</guid>
+      <guid>/talk/berlin2018-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial:</title>
-      <link>https://www.martens.tech/talk/tuberlin2018-3/</link>
+      <link>/talk/tuberlin2018-3/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2018-3/</guid>
+      <guid>/talk/tuberlin2018-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Control of traveling localized spots</title>
-      <link>https://www.martens.tech/talk/vilanovailageltru2017-1/</link>
+      <link>/talk/vilanovailageltru2017-1/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/vilanovailageltru2017-1/</guid>
+      <guid>/talk/vilanovailageltru2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Wave propagation in spatially modulated domains</title>
-      <link>https://www.martens.tech/talk/neworleans2017-2/</link>
+      <link>/talk/neworleans2017-2/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/neworleans2017-2/</guid>
+      <guid>/talk/neworleans2017-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Control of traveling localized spots</title>
-      <link>https://www.martens.tech/talk/neworleans2017-1/</link>
+      <link>/talk/neworleans2017-1/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/neworleans2017-1/</guid>
+      <guid>/talk/neworleans2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/tuberlin2017-1/</link>
+      <link>/talk/tuberlin2017-1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2017-1/</guid>
+      <guid>/talk/tuberlin2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/tuberlin2017-2/</link>
+      <link>/talk/tuberlin2017-2/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2017-2/</guid>
+      <guid>/talk/tuberlin2017-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/dresden2017-1/</link>
+      <link>/talk/dresden2017-1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/dresden2017-1/</guid>
+      <guid>/talk/dresden2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/lutherstadtwittenberg2017-1/</link>
+      <link>/talk/lutherstadtwittenberg2017-1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/lutherstadtwittenberg2017-1/</guid>
+      <guid>/talk/lutherstadtwittenberg2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial:</title>
-      <link>https://www.martens.tech/talk/tuberlin2017-3/</link>
+      <link>/talk/tuberlin2017-3/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2017-3/</guid>
+      <guid>/talk/tuberlin2017-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical, optimal, and sparse optimal control of traveling wave solutions to reaction-diffusion systems</title>
-      <link>https://www.martens.tech/publication/journal-article/2016-01-01_analytical_optimal/</link>
+      <link>/publication/journal-article/2016-01-01_analytical_optimal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2016-01-01_analytical_optimal/</guid>
+      <guid>/publication/journal-article/2016-01-01_analytical_optimal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Note: From reaction-diffusion systems to confined Brownian motion</title>
-      <link>https://www.martens.tech/publication/journal-article/2016-01-01_note_from_reaction-d/</link>
+      <link>/publication/journal-article/2016-01-01_note_from_reaction-d/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2016-01-01_note_from_reaction-d/</guid>
+      <guid>/publication/journal-article/2016-01-01_note_from_reaction-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>https://www.martens.tech/talk/durham2016-1/</link>
+      <link>/talk/durham2016-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/durham2016-1/</guid>
+      <guid>/talk/durham2016-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>https://www.martens.tech/talk/heringsdorf2016-1/</link>
+      <link>/talk/heringsdorf2016-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/heringsdorf2016-1/</guid>
+      <guid>/talk/heringsdorf2016-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/huberlin2016-1/</link>
+      <link>/talk/huberlin2016-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/huberlin2016-1/</guid>
+      <guid>/talk/huberlin2016-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/tuberlin2016-1/</link>
+      <link>/talk/tuberlin2016-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2016-1/</guid>
+      <guid>/talk/tuberlin2016-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/berlin2016-1/</link>
+      <link>/talk/berlin2016-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2016-1/</guid>
+      <guid>/talk/berlin2016-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial:</title>
-      <link>https://www.martens.tech/talk/huberlin2016-2/</link>
+      <link>/talk/huberlin2016-2/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/huberlin2016-2/</guid>
+      <guid>/talk/huberlin2016-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wave propagation in spatially modulated tubes</title>
-      <link>https://www.martens.tech/publication/journal-article/2016-01-01_wave_propagation_in_/</link>
+      <link>/publication/journal-article/2016-01-01_wave_propagation_in_/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2016-01-01_wave_propagation_in_/</guid>
+      <guid>/publication/journal-article/2016-01-01_wave_propagation_in_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://www.martens.tech/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://www.martens.tech/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -1005,7 +1023,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://www.martens.tech/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -1016,177 +1034,177 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Front propagation in channels with spatially modulated cross section</title>
-      <link>https://www.martens.tech/publication/journal-article/2015-01-01_front_propagation_in/</link>
+      <link>/publication/journal-article/2015-01-01_front_propagation_in/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2015-01-01_front_propagation_in/</guid>
+      <guid>/publication/journal-article/2015-01-01_front_propagation_in/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/tuberlin2015-1/</link>
+      <link>/talk/tuberlin2015-1/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2015-1/</guid>
+      <guid>/talk/tuberlin2015-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/garching2015-1/</link>
+      <link>/talk/garching2015-1/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/garching2015-1/</guid>
+      <guid>/talk/garching2015-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/lutherstadtwittenberg2015-1/</link>
+      <link>/talk/lutherstadtwittenberg2015-1/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/lutherstadtwittenberg2015-1/</guid>
+      <guid>/talk/lutherstadtwittenberg2015-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>talk:</title>
-      <link>https://www.martens.tech/talk/berlin2015-1/</link>
+      <link>/talk/berlin2015-1/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2015-1/</guid>
+      <guid>/talk/berlin2015-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Invited Talk: Hydrodynamically enforced entropic trapping of Brownian particles</title>
-      <link>https://www.martens.tech/talk/mpi-pksdresden2014-1/</link>
+      <link>/talk/mpi-pksdresden2014-1/</link>
       <pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/mpi-pksdresden2014-1/</guid>
+      <guid>/talk/mpi-pksdresden2014-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Giant enhancement of hydrodynamically enforced entropic trapping in thin channels</title>
-      <link>https://www.martens.tech/publication/journal-article/2014-01-01_giant_enhancement_of/</link>
+      <link>/publication/journal-article/2014-01-01_giant_enhancement_of/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2014-01-01_giant_enhancement_of/</guid>
+      <guid>/publication/journal-article/2014-01-01_giant_enhancement_of/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/tuberlin2014-1/</link>
+      <link>/talk/tuberlin2014-1/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2014-1/</guid>
+      <guid>/talk/tuberlin2014-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shaping wave patterns in reaction-diffusion systems</title>
-      <link>https://www.martens.tech/publication/journal-article/2014-01-01_shaping_wave_pattern/</link>
+      <link>/publication/journal-article/2014-01-01_shaping_wave_pattern/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2014-01-01_shaping_wave_pattern/</guid>
+      <guid>/publication/journal-article/2014-01-01_shaping_wave_pattern/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/bayreuth2014-1/</link>
+      <link>/talk/bayreuth2014-1/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/bayreuth2014-1/</guid>
+      <guid>/talk/bayreuth2014-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/berlin2014-1/</link>
+      <link>/talk/berlin2014-1/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2014-1/</guid>
+      <guid>/talk/berlin2014-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks:</title>
-      <link>https://www.martens.tech/talk/dresden2014-1/</link>
+      <link>/talk/dresden2014-1/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/dresden2014-1/</guid>
+      <guid>/talk/dresden2014-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How entropy and hydrodynamics cooperate in rectifying particle transport</title>
-      <link>https://www.martens.tech/publication/journal-article/2013-01-01_how_entropy_and_hydr/</link>
+      <link>/publication/journal-article/2013-01-01_how_entropy_and_hydr/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2013-01-01_how_entropy_and_hydr/</guid>
+      <guid>/publication/journal-article/2013-01-01_how_entropy_and_hydr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrodynamically enforced entropic trapping of Brownian particles</title>
-      <link>https://www.martens.tech/publication/journal-article/2013-01-01_hydrodynamically_enf/</link>
+      <link>/publication/journal-article/2013-01-01_hydrodynamically_enf/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2013-01-01_hydrodynamically_enf/</guid>
+      <guid>/publication/journal-article/2013-01-01_hydrodynamically_enf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/tuberlin2013-1/</link>
+      <link>/talk/tuberlin2013-1/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/tuberlin2013-1/</guid>
+      <guid>/talk/tuberlin2013-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/berlin2013-1/</link>
+      <link>/talk/berlin2013-1/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2013-1/</guid>
+      <guid>/talk/berlin2013-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/berlin2013-2/</link>
+      <link>/talk/berlin2013-2/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2013-2/</guid>
+      <guid>/talk/berlin2013-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/hahnenklee2013-1/</link>
+      <link>/talk/hahnenklee2013-1/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/hahnenklee2013-1/</guid>
+      <guid>/talk/hahnenklee2013-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transport of Brownian particles in confined geometries: Steps beyond the Fick-Jacobs approach</title>
-      <link>https://www.martens.tech/publication/thesis/2013-01-01_transport_of_brownia/</link>
+      <link>/publication/thesis/2013-01-01_transport_of_brownia/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/thesis/2013-01-01_transport_of_brownia/</guid>
+      <guid>/publication/thesis/2013-01-01_transport_of_brownia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial: Parallel Computing with CUDA</title>
-      <link>https://www.martens.tech/talk/potsdam2013-1/</link>
+      <link>/talk/potsdam2013-1/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/potsdam2013-1/</guid>
+      <guid>/talk/potsdam2013-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial: Stochasticity</title>
-      <link>https://www.martens.tech/talk/graal-muritz2013-1/</link>
+      <link>/talk/graal-muritz2013-1/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/graal-muritz2013-1/</guid>
+      <guid>/talk/graal-muritz2013-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrodynamically enforced entropic trapping</title>
-      <link>https://www.martens.tech/project/heet/</link>
+      <link>/project/heet/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/heet/</guid>
+      <guid>/project/heet/</guid>
       <description>&lt;p&gt;Effective control of mass and charge transport attracts ever growing interest within several communities and diverse disciplines. In modern separation devices various kind of forces are used to separate size-dispersed objects, e.g., colloids, cells, or DNA, on micro- or even nanoscales. Often, the motion of these objects proceeds within confining geometries like in Lab-on-Chip devices, microfluidic channels, or vector chromatography arrays. In particular, for uneven boundaries entropic effects caused by non-holomic constraints are important. A deep understanding of these entropic contribution is significant in order to effectively control particle transport at microscale level. In view of its importance, recent efforts in theory triggered activities which allow for an approximate description that involves a reduction of dimensionality; thus making detailed predictions tractable. Up to present days, the focus  was on the role of conservative forces and its interplay with confinement.&lt;/p&gt;
 &lt;p&gt;Recently, we overcame this limitation and derived a generalization of the Fick-Jacobs approach for the most general force which can involve both, the curl-free and the divergence-free components. Particularly, the latter is essential for particle transport caused by e.g. laminar solvent flows or dielectrophoretic forces. For arbitrarily corrugated channel geometry, one can put forward an effective one-dimensional description involving the potential of mean force, which along with the commonly known entropic contribution in presence of a constant bias, acquires a qualitatively novel contribution associated with divergence-free forces.&lt;/p&gt;
 &lt;p&gt;A relevant application is the fluid flow across microfludic structures where a solute of Brownian particles is subject to both, an external bias and a pressure-driven flow.  At a critical ratio of these counteracting tendencies, the mean particle current can identically vanish, despite the presence of locally strong forces, and being accompanied by a colossal suppression of diffusion. This in turn yields our major finding; namely, the phenomenon of &lt;em&gt;hydrodynamically enforced entropic trapping&lt;/em&gt; (HEET) of Brownian particles. HEET offers a unique opportunity to efficiently separate particles of the same size based on their different response to the applied constant stimuli, e.g., to sift healthy cells from diseased and dead cells. Even small distinctions in the response can be used to trap a certain particle
@@ -1197,9 +1215,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Inverse problems in nonlinear wave propagation</title>
-      <link>https://www.martens.tech/project/positioncontrol/</link>
+      <link>/project/positioncontrol/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/positioncontrol/</guid>
+      <guid>/project/positioncontrol/</guid>
       <description>&lt;p&gt;The ability to control a desired dynamics or pattern has attracted considerable attention over the last decades. Often, the applied control signals are treated as weak perturbations and an equation of motion for perturbed solution in response to the applied controls is derived. Recently, we&#39;ve posed the inverse question of how to design controls that lead to a propagation of the solution following a desired velocity protocol.&lt;/p&gt;
 &lt;p&gt;In doing so, we&#39;ve proposed an open loop control of wave patterns that acts solely via the Goldstone modes of the system and provides analytical expressions for the control signal to be applied; we coin this approach &lt;em&gt;Goldstone control&lt;/em&gt;. We demonstrated that the latter is able to accelerate or decelerate 1D traveling front and pulse solutions as well as localized spot solutions to 2D reaction-diffusion equations without changing their spatial profile. Moreover, it applies to move the core of a spiral wave at desired velocity along a pre-given trajectory through a 2D spatial domain or to shape iso-concentration lines of 2D traveling pulses. Additionally, we confirmed the optimality of Goldstone control by demonstrating  numerically its equivalence to the solution of an  optimal control problem. To solve the latter, the analytical expressions for the control are excellent initial guesses; substantially speeding-up the time-consuming calculations.&lt;/p&gt;
 </description>
@@ -1207,9 +1225,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Thermally activated escape over potential barriers</title>
-      <link>https://www.martens.tech/project/nonlinearoscchains/</link>
+      <link>/project/nonlinearoscchains/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/nonlinearoscchains/</guid>
+      <guid>/project/nonlinearoscchains/</guid>
       <description>&lt;p&gt;Transport phenomena play a fundamental role in many physical systems. For systems that evolve in an external potential which possesses metastable states the thermally activated escape over potential barriers, as the precondition for transport, is the mostly studied situation. Due to its ubiquity and simplicity a spatially periodic potential is employed in a number of applications including Josephson tunneling junctions , phase-locked loops , rotation of dipoles, charge-density wave, dislocation, diffusion of atoms and molecules on crystal surfaces, biophysical processes such as neural activity and intracellular transport.&lt;/p&gt;
 &lt;p&gt;Actually, I investigate the Langevin dynamics in the high-friction limit of a dimer, consisting of two Brownian particles coupled by interaction potentials, absorbed on a one-dimensional periodic substrate and subjected to an external localized point force:&lt;/p&gt;
 &lt;ul&gt;
@@ -1223,306 +1241,306 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Talk: Biased and ﬂow driven Brownian motion in conﬁned geometries</title>
-      <link>https://www.martens.tech/talk/usa2012-1/</link>
+      <link>/talk/usa2012-1/</link>
       <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/usa2012-1/</guid>
+      <guid>/talk/usa2012-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Biased and ﬂow driven Brownian motion in conﬁned geometries</title>
-      <link>https://www.martens.tech/talk/potsdam2012-1/</link>
+      <link>/talk/potsdam2012-1/</link>
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/potsdam2012-1/</guid>
+      <guid>/talk/potsdam2012-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Driven Brownian transport through arrays of symmetric obstacles</title>
-      <link>https://www.martens.tech/talk/potsdam2012-2/</link>
+      <link>/talk/potsdam2012-2/</link>
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/potsdam2012-2/</guid>
+      <guid>/talk/potsdam2012-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communication: Impact of inertia on biased Brownian transport in confined geometries</title>
-      <link>https://www.martens.tech/publication/journal-article/2012-01-01_communication_impact/</link>
+      <link>/publication/journal-article/2012-01-01_communication_impact/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2012-01-01_communication_impact/</guid>
+      <guid>/publication/journal-article/2012-01-01_communication_impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Driven Brownian transport through arrays of symmetric obstacles</title>
-      <link>https://www.martens.tech/publication/journal-article/2012-01-01_driven_brownian_tran/</link>
+      <link>/publication/journal-article/2012-01-01_driven_brownian_tran/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2012-01-01_driven_brownian_tran/</guid>
+      <guid>/publication/journal-article/2012-01-01_driven_brownian_tran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>https://www.martens.tech/talk/krakau2012-1/</link>
+      <link>/talk/krakau2012-1/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/krakau2012-1/</guid>
+      <guid>/talk/krakau2012-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/huberlin2012-1/</link>
+      <link>/talk/huberlin2012-1/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/huberlin2012-1/</guid>
+      <guid>/talk/huberlin2012-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/berlin2012-1/</link>
+      <link>/talk/berlin2012-1/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2012-1/</guid>
+      <guid>/talk/berlin2012-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/berlin2012-2/</link>
+      <link>/talk/berlin2012-2/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2012-2/</guid>
+      <guid>/talk/berlin2012-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Biased Brownian Motion in Conﬁned Geometries</title>
-      <link>https://www.martens.tech/talk/palmademallorca2011-1/</link>
+      <link>/talk/palmademallorca2011-1/</link>
       <pubDate>Mon, 12 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/palmademallorca2011-1/</guid>
+      <guid>/talk/palmademallorca2011-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Entropic transport - a step beyond Fick-Jacobs</title>
-      <link>https://www.martens.tech/talk/mpidresden2011-1/</link>
+      <link>/talk/mpidresden2011-1/</link>
       <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/mpidresden2011-1/</guid>
+      <guid>/talk/mpidresden2011-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biased Brownian motion in extreme corrugated tubes</title>
-      <link>https://www.martens.tech/publication/journal-article/2011-01-01_biased_brownian_moti/</link>
+      <link>/publication/journal-article/2011-01-01_biased_brownian_moti/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2011-01-01_biased_brownian_moti/</guid>
+      <guid>/publication/journal-article/2011-01-01_biased_brownian_moti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropic particle transport: Higher-order corrections to the Fick-Jacobs diffusion equation</title>
-      <link>https://www.martens.tech/publication/journal-article/2011-01-01_entropic_particle_tr/</link>
+      <link>/publication/journal-article/2011-01-01_entropic_particle_tr/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2011-01-01_entropic_particle_tr/</guid>
+      <guid>/publication/journal-article/2011-01-01_entropic_particle_tr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>https://www.martens.tech/talk/dallas2011-1/</link>
+      <link>/talk/dallas2011-1/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/dallas2011-1/</guid>
+      <guid>/talk/dallas2011-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/huberlin2011-1/</link>
+      <link>/talk/huberlin2011-1/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/huberlin2011-1/</guid>
+      <guid>/talk/huberlin2011-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/berlin2011-1/</link>
+      <link>/talk/berlin2011-1/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2011-1/</guid>
+      <guid>/talk/berlin2011-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/berlin2011-3/</link>
+      <link>/talk/berlin2011-3/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2011-3/</guid>
+      <guid>/talk/berlin2011-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/huberlin2011-2/</link>
+      <link>/talk/huberlin2011-2/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/huberlin2011-2/</guid>
+      <guid>/talk/huberlin2011-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>talk:</title>
-      <link>https://www.martens.tech/talk/berlin2011-2/</link>
+      <link>/talk/berlin2011-2/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2011-2/</guid>
+      <guid>/talk/berlin2011-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>https://www.martens.tech/talk/berlin2010-1/</link>
+      <link>/talk/berlin2010-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2010-1/</guid>
+      <guid>/talk/berlin2010-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>https://www.martens.tech/talk/regensburg2010-1/</link>
+      <link>/talk/regensburg2010-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/regensburg2010-1/</guid>
+      <guid>/talk/regensburg2010-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/huberlin2010-1/</link>
+      <link>/talk/huberlin2010-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/huberlin2010-1/</guid>
+      <guid>/talk/huberlin2010-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/augsburg2010-1/</link>
+      <link>/talk/augsburg2010-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/augsburg2010-1/</guid>
+      <guid>/talk/augsburg2010-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/bristol2010-1/</link>
+      <link>/talk/bristol2010-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/bristol2010-1/</guid>
+      <guid>/talk/bristol2010-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Transport of a dimer subject to localized forces over a periodic potential</title>
-      <link>https://www.martens.tech/talk/mainz2009-1/</link>
+      <link>/talk/mainz2009-1/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/mainz2009-1/</guid>
+      <guid>/talk/mainz2009-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>https://www.martens.tech/talk/badhonnef2009-1/</link>
+      <link>/talk/badhonnef2009-1/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/badhonnef2009-1/</guid>
+      <guid>/talk/badhonnef2009-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/berlin2009-1/</link>
+      <link>/talk/berlin2009-1/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2009-1/</guid>
+      <guid>/talk/berlin2009-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/dresden2009-1/</link>
+      <link>/talk/dresden2009-1/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/dresden2009-1/</guid>
+      <guid>/talk/dresden2009-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Resonance-like phenomena of the mobility of a chain of nonlinear coupled oscillators in a two-dimensional periodic potential</title>
-      <link>https://www.martens.tech/talk/fuberlin2008-1/</link>
+      <link>/talk/fuberlin2008-1/</link>
       <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/fuberlin2008-1/</guid>
+      <guid>/talk/fuberlin2008-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transport in confined geometries</title>
-      <link>https://www.martens.tech/project/entropic-transport/</link>
+      <link>/project/entropic-transport/</link>
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/entropic-transport/</guid>
+      <guid>/project/entropic-transport/</guid>
       <description>&lt;p&gt;Diffusive transport of particles or, more generally, small objects, is a ubiquitous feature of physical and chemical reaction systems. In microsized geometries containing confining walls and constrictions, transport is controlled both by the fluctuation statistics of the jittering objects and the phase space available to their dynamics. Consequently, the study of transport at the macro- and nano-scales must address both Brownian motion and entropic effects. For particles undergoing biased diffusion in static suspension media enclosed by confining geometries, transport exhibits intriguing features such as 1) a decrease in the particle mobility with increasing temperature or also 2) a broad excess peak of the effective diffusion above the free diffusion limit resulting in a violation of the Sutherland-Einstein fluctuation-dissipation relation. These paradoxical aspects can be understood in terms of entropic contributions resulting from the restricted dynamics in phase space.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deterministic escape of a dimer over an anharmonic potential barrier</title>
-      <link>https://www.martens.tech/publication/journal-article/2008-01-01_deterministic_escape/</link>
+      <link>/publication/journal-article/2008-01-01_deterministic_escape/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2008-01-01_deterministic_escape/</guid>
+      <guid>/publication/journal-article/2008-01-01_deterministic_escape/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Resonance-like phenomena of the mobility of a chain of nonlinear coupled oscillators in a two-dimensional periodic potential</title>
-      <link>https://www.martens.tech/talk/mpipotsdam2008-1/</link>
+      <link>/talk/mpipotsdam2008-1/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/mpipotsdam2008-1/</guid>
+      <guid>/talk/mpipotsdam2008-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resonancelike phenomena in the mobility of a chain of nonlinear coupled oscillators in a two-dimensional periodic potential</title>
-      <link>https://www.martens.tech/publication/journal-article/2008-01-01_resonancelike_phenom/</link>
+      <link>/publication/journal-article/2008-01-01_resonancelike_phenom/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2008-01-01_resonancelike_phenom/</guid>
+      <guid>/publication/journal-article/2008-01-01_resonancelike_phenom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/berlin2008-1/</link>
+      <link>/talk/berlin2008-1/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2008-1/</guid>
+      <guid>/talk/berlin2008-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>https://www.martens.tech/talk/berlin2008-2/</link>
+      <link>/talk/berlin2008-2/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/berlin2008-2/</guid>
+      <guid>/talk/berlin2008-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transition between locked and running states for dimer motion induced by periodic external driving</title>
-      <link>https://www.martens.tech/publication/journal-article/2008-01-01_transition_between_l/</link>
+      <link>/publication/journal-article/2008-01-01_transition_between_l/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2008-01-01_transition_between_l/</guid>
+      <guid>/publication/journal-article/2008-01-01_transition_between_l/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/graal-muritz2007-1/</link>
+      <link>/talk/graal-muritz2007-1/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/graal-muritz2007-1/</guid>
+      <guid>/talk/graal-muritz2007-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>https://www.martens.tech/talk/huberlin2007-1/</link>
+      <link>/talk/huberlin2007-1/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/talk/huberlin2007-1/</guid>
+      <guid>/talk/huberlin2007-1/</guid>
       <description></description>
     </item>
     

@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/tags/</link>
-      <atom:link href="https://www.martens.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://www.martens.tech/tags/</link>
+      <link>/tags/</link>
     </image>
     
     <item>
       <title>Inverse Problems</title>
-      <link>https://www.martens.tech/tags/inverse-problems/</link>
+      <link>/tags/inverse-problems/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/tags/inverse-problems/</guid>
+      <guid>/tags/inverse-problems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reaction-Diffusion Equations</title>
-      <link>https://www.martens.tech/tags/reaction-diffusion-equations/</link>
+      <link>/tags/reaction-diffusion-equations/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/tags/reaction-diffusion-equations/</guid>
+      <guid>/tags/reaction-diffusion-equations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Field Equations</title>
-      <link>https://www.martens.tech/tags/neural-field-equations/</link>
+      <link>/tags/neural-field-equations/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/tags/neural-field-equations/</guid>
+      <guid>/tags/neural-field-equations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Confinement</title>
-      <link>https://www.martens.tech/tags/confinement/</link>
+      <link>/tags/confinement/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/tags/confinement/</guid>
+      <guid>/tags/confinement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal control</title>
-      <link>https://www.martens.tech/tags/optimal-control/</link>
+      <link>/tags/optimal-control/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/tags/optimal-control/</guid>
+      <guid>/tags/optimal-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://www.martens.tech/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://www.martens.tech/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://www.martens.tech/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://www.martens.tech/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://www.martens.tech/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://www.martens.tech/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropic Transport</title>
-      <link>https://www.martens.tech/tags/entropic-transport/</link>
+      <link>/tags/entropic-transport/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/tags/entropic-transport/</guid>
+      <guid>/tags/entropic-transport/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HEET</title>
-      <link>https://www.martens.tech/tags/heet/</link>
+      <link>/tags/heet/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/tags/heet/</guid>
+      <guid>/tags/heet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>energetic barriers</title>
-      <link>https://www.martens.tech/tags/energetic-barriers/</link>
+      <link>/tags/energetic-barriers/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/tags/energetic-barriers/</guid>
+      <guid>/tags/energetic-barriers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spatially periodic potential</title>
-      <link>https://www.martens.tech/tags/spatially-periodic-potential/</link>
+      <link>/tags/spatially-periodic-potential/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/tags/spatially-periodic-potential/</guid>
+      <guid>/tags/spatially-periodic-potential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thermally activated transport</title>
-      <link>https://www.martens.tech/tags/thermally-activated-transport/</link>
+      <link>/tags/thermally-activated-transport/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/tags/thermally-activated-transport/</guid>
+      <guid>/tags/thermally-activated-transport/</guid>
       <description></description>
     </item>
     

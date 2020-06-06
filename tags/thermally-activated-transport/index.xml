@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thermally activated transport | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/tags/thermally-activated-transport/</link>
-      <atom:link href="https://www.martens.tech/tags/thermally-activated-transport/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/thermally-activated-transport/</link>
+      <atom:link href="/tags/thermally-activated-transport/index.xml" rel="self" type="application/rss+xml" />
     <description>thermally activated transport</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>thermally activated transport</title>
-      <link>https://www.martens.tech/tags/thermally-activated-transport/</link>
+      <link>/tags/thermally-activated-transport/</link>
     </image>
     
     <item>
       <title>Thermally activated escape over potential barriers</title>
-      <link>https://www.martens.tech/project/nonlinearoscchains/</link>
+      <link>/project/nonlinearoscchains/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/nonlinearoscchains/</guid>
+      <guid>/project/nonlinearoscchains/</guid>
       <description>&lt;p&gt;Transport phenomena play a fundamental role in many physical systems. For systems that evolve in an external potential which possesses metastable states the thermally activated escape over potential barriers, as the precondition for transport, is the mostly studied situation. Due to its ubiquity and simplicity a spatially periodic potential is employed in a number of applications including Josephson tunneling junctions , phase-locked loops , rotation of dipoles, charge-density wave, dislocation, diffusion of atoms and molecules on crystal surfaces, biophysical processes such as neural activity and intracellular transport.&lt;/p&gt;
 &lt;p&gt;Actually, I investigate the Langevin dynamics in the high-friction limit of a dimer, consisting of two Brownian particles coupled by interaction potentials, absorbed on a one-dimensional periodic substrate and subjected to an external localized point force:&lt;/p&gt;
 &lt;ul&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>Resonancelike phenomena in the mobility of a chain of nonlinear coupled oscillators in a two-dimensional periodic potential</title>
-      <link>https://www.martens.tech/publication/journal-article/2008-01-01_resonancelike_phenom/</link>
+      <link>/publication/journal-article/2008-01-01_resonancelike_phenom/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2008-01-01_resonancelike_phenom/</guid>
+      <guid>/publication/journal-article/2008-01-01_resonancelike_phenom/</guid>
       <description></description>
     </item>
     

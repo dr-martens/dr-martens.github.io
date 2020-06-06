@@ -2,214 +2,214 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/authors/</link>
-      <atom:link href="https://www.martens.tech/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://www.martens.tech/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://www.martens.tech/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adriaan M. H. van der Veen</title>
-      <link>https://www.martens.tech/authors/adriaan-m.-h.-van-der-veen/</link>
+      <link>/authors/adriaan-m.-h.-van-der-veen/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/adriaan-m.-h.-van-der-veen/</guid>
+      <guid>/authors/adriaan-m.-h.-van-der-veen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alan Bosnjakovic</title>
-      <link>https://www.martens.tech/authors/alan-bosnjakovic/</link>
+      <link>/authors/alan-bosnjakovic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/alan-bosnjakovic/</guid>
+      <guid>/authors/alan-bosnjakovic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christopher Ryll</title>
-      <link>https://www.martens.tech/authors/christopher-ryll/</link>
+      <link>/authors/christopher-ryll/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/christopher-ryll/</guid>
+      <guid>/authors/christopher-ryll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clemens Elster</title>
-      <link>https://www.martens.tech/authors/clemens-elster/</link>
+      <link>/authors/clemens-elster/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/clemens-elster/</guid>
+      <guid>/authors/clemens-elster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fredi Tr&amp;ouml;ltzsch</title>
-      <link>https://www.martens.tech/authors/fredi-troumlltzsch/</link>
+      <link>/authors/fredi-troumlltzsch/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/fredi-troumlltzsch/</guid>
+      <guid>/authors/fredi-troumlltzsch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harald Engel</title>
-      <link>https://www.martens.tech/authors/harald-engel/</link>
+      <link>/authors/harald-engel/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/harald-engel/</guid>
+      <guid>/authors/harald-engel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jakob L&amp;ouml;ber</title>
-      <link>https://www.martens.tech/authors/jakob-loumlber/</link>
+      <link>/authors/jakob-loumlber/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/jakob-loumlber/</guid>
+      <guid>/authors/jakob-loumlber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John Greenwood</title>
-      <link>https://www.martens.tech/authors/john-greenwood/</link>
+      <link>/authors/john-greenwood/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/john-greenwood/</guid>
+      <guid>/authors/john-greenwood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Katy Klauenberg</title>
-      <link>https://www.martens.tech/authors/katy-klauenberg/</link>
+      <link>/authors/katy-klauenberg/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/katy-klauenberg/</guid>
+      <guid>/authors/katy-klauenberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maurice G. Cox</title>
-      <link>https://www.martens.tech/authors/maurice-g.-cox/</link>
+      <link>/authors/maurice-g.-cox/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/maurice-g.-cox/</guid>
+      <guid>/authors/maurice-g.-cox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexander Ziepke</title>
-      <link>https://www.martens.tech/authors/alexander-ziepke/</link>
+      <link>/authors/alexander-ziepke/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/alexander-ziepke/</guid>
+      <guid>/authors/alexander-ziepke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arthur V. Straube</title>
-      <link>https://www.martens.tech/authors/arthur-v.-straube/</link>
+      <link>/authors/arthur-v.-straube/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/arthur-v.-straube/</guid>
+      <guid>/authors/arthur-v.-straube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gerhard Schmid</title>
-      <link>https://www.martens.tech/authors/gerhard-schmid/</link>
+      <link>/authors/gerhard-schmid/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/gerhard-schmid/</guid>
+      <guid>/authors/gerhard-schmid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lutz Schimansky-Geier</title>
-      <link>https://www.martens.tech/authors/lutz-schimansky-geier/</link>
+      <link>/authors/lutz-schimansky-geier/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/lutz-schimansky-geier/</guid>
+      <guid>/authors/lutz-schimansky-geier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peter H&amp;auml;nggi</title>
-      <link>https://www.martens.tech/authors/peter-haumlnggi/</link>
+      <link>/authors/peter-haumlnggi/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/peter-haumlnggi/</guid>
+      <guid>/authors/peter-haumlnggi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G Schmid</title>
-      <link>https://www.martens.tech/authors/g-schmid/</link>
+      <link>/authors/g-schmid/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/g-schmid/</guid>
+      <guid>/authors/g-schmid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L Schimansky-Geier</title>
-      <link>https://www.martens.tech/authors/l-schimansky-geier/</link>
+      <link>/authors/l-schimansky-geier/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/l-schimansky-geier/</guid>
+      <guid>/authors/l-schimansky-geier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P H&amp;auml;nggi</title>
-      <link>https://www.martens.tech/authors/p-haumlnggi/</link>
+      <link>/authors/p-haumlnggi/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/p-haumlnggi/</guid>
+      <guid>/authors/p-haumlnggi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fabio Marchesoni</title>
-      <link>https://www.martens.tech/authors/fabio-marchesoni/</link>
+      <link>/authors/fabio-marchesoni/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/fabio-marchesoni/</guid>
+      <guid>/authors/fabio-marchesoni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Franco Nori</title>
-      <link>https://www.martens.tech/authors/franco-nori/</link>
+      <link>/authors/franco-nori/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/franco-nori/</guid>
+      <guid>/authors/franco-nori/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Igor M Sokolov</title>
-      <link>https://www.martens.tech/authors/igor-m-sokolov/</link>
+      <link>/authors/igor-m-sokolov/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/igor-m-sokolov/</guid>
+      <guid>/authors/igor-m-sokolov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pulak K Ghosh</title>
-      <link>https://www.martens.tech/authors/pulak-k-ghosh/</link>
+      <link>/authors/pulak-k-ghosh/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/pulak-k-ghosh/</guid>
+      <guid>/authors/pulak-k-ghosh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D Hennig</title>
-      <link>https://www.martens.tech/authors/d-hennig/</link>
+      <link>/authors/d-hennig/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/d-hennig/</guid>
+      <guid>/authors/d-hennig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S Fugmann</title>
-      <link>https://www.martens.tech/authors/s-fugmann/</link>
+      <link>/authors/s-fugmann/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/authors/s-fugmann/</guid>
+      <guid>/authors/s-fugmann/</guid>
       <description></description>
     </item>
     

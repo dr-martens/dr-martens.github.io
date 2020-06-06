@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HEET | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/tags/heet/</link>
-      <atom:link href="https://www.martens.tech/tags/heet/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/heet/</link>
+      <atom:link href="/tags/heet/index.xml" rel="self" type="application/rss+xml" />
     <description>HEET</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>HEET</title>
-      <link>https://www.martens.tech/tags/heet/</link>
+      <link>/tags/heet/</link>
     </image>
     
     <item>
       <title>Giant enhancement of hydrodynamically enforced entropic trapping in thin channels</title>
-      <link>https://www.martens.tech/publication/journal-article/2014-01-01_giant_enhancement_of/</link>
+      <link>/publication/journal-article/2014-01-01_giant_enhancement_of/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2014-01-01_giant_enhancement_of/</guid>
+      <guid>/publication/journal-article/2014-01-01_giant_enhancement_of/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How entropy and hydrodynamics cooperate in rectifying particle transport</title>
-      <link>https://www.martens.tech/publication/journal-article/2013-01-01_how_entropy_and_hydr/</link>
+      <link>/publication/journal-article/2013-01-01_how_entropy_and_hydr/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2013-01-01_how_entropy_and_hydr/</guid>
+      <guid>/publication/journal-article/2013-01-01_how_entropy_and_hydr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrodynamically enforced entropic trapping of Brownian particles</title>
-      <link>https://www.martens.tech/publication/journal-article/2013-01-01_hydrodynamically_enf/</link>
+      <link>/publication/journal-article/2013-01-01_hydrodynamically_enf/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2013-01-01_hydrodynamically_enf/</guid>
+      <guid>/publication/journal-article/2013-01-01_hydrodynamically_enf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transport of Brownian particles in confined geometries: Steps beyond the Fick-Jacobs approach</title>
-      <link>https://www.martens.tech/publication/thesis/2013-01-01_transport_of_brownia/</link>
+      <link>/publication/thesis/2013-01-01_transport_of_brownia/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/thesis/2013-01-01_transport_of_brownia/</guid>
+      <guid>/publication/thesis/2013-01-01_transport_of_brownia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrodynamically enforced entropic trapping</title>
-      <link>https://www.martens.tech/project/heet/</link>
+      <link>/project/heet/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/project/heet/</guid>
+      <guid>/project/heet/</guid>
       <description>&lt;p&gt;Effective control of mass and charge transport attracts ever growing interest within several communities and diverse disciplines. In modern separation devices various kind of forces are used to separate size-dispersed objects, e.g., colloids, cells, or DNA, on micro- or even nanoscales. Often, the motion of these objects proceeds within confining geometries like in Lab-on-Chip devices, microfluidic channels, or vector chromatography arrays. In particular, for uneven boundaries entropic effects caused by non-holomic constraints are important. A deep understanding of these entropic contribution is significant in order to effectively control particle transport at microscale level. In view of its importance, recent efforts in theory triggered activities which allow for an approximate description that involves a reduction of dimensionality; thus making detailed predictions tractable. Up to present days, the focus  was on the role of conservative forces and its interplay with confinement.&lt;/p&gt;
 &lt;p&gt;Recently, we overcame this limitation and derived a generalization of the Fick-Jacobs approach for the most general force which can involve both, the curl-free and the divergence-free components. Particularly, the latter is essential for particle transport caused by e.g. laminar solvent flows or dielectrophoretic forces. For arbitrarily corrugated channel geometry, one can put forward an effective one-dimensional description involving the potential of mean force, which along with the commonly known entropic contribution in presence of a constant bias, acquires a qualitatively novel contribution associated with divergence-free forces.&lt;/p&gt;
 &lt;p&gt;A relevant application is the fluid flow across microfludic structures where a solute of Brownian particles is subject to both, an external bias and a pressure-driven flow.  At a critical ratio of these counteracting tendencies, the mean particle current can identically vanish, despite the presence of locally strong forces, and being accompanied by a colossal suppression of diffusion. This in turn yields our major finding; namely, the phenomenon of &lt;em&gt;hydrodynamically enforced entropic trapping&lt;/em&gt; (HEET) of Brownian particles. HEET offers a unique opportunity to efficiently separate particles of the same size based on their different response to the applied constant stimuli, e.g., to sift healthy cells from diseased and dead cells. Even small distinctions in the response can be used to trap a certain particle

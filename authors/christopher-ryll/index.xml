@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher Ryll | Dr. Steffen Martens</title>
-    <link>https://www.martens.tech/authors/christopher-ryll/</link>
-      <atom:link href="https://www.martens.tech/authors/christopher-ryll/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/christopher-ryll/</link>
+      <atom:link href="/authors/christopher-ryll/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Ryll</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martens.tech/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Christopher Ryll</title>
-      <link>https://www.martens.tech/authors/christopher-ryll/</link>
+      <link>/authors/christopher-ryll/</link>
     </image>
     
     <item>
       <title>Control of traveling localized spots</title>
-      <link>https://www.martens.tech/publication/preprint/2020-01-01_control_of_traveling/</link>
+      <link>/publication/preprint/2020-01-01_control_of_traveling/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/preprint/2020-01-01_control_of_traveling/</guid>
+      <guid>/publication/preprint/2020-01-01_control_of_traveling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical, optimal, and sparse optimal control of traveling wave solutions to reaction-diffusion systems</title>
-      <link>https://www.martens.tech/publication/journal-article/2016-01-01_analytical_optimal/</link>
+      <link>/publication/journal-article/2016-01-01_analytical_optimal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.martens.tech/publication/journal-article/2016-01-01_analytical_optimal/</guid>
+      <guid>/publication/journal-article/2016-01-01_analytical_optimal/</guid>
       <description></description>
     </item>
     
