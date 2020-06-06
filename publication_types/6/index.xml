@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6 | Dr. Steffen Martens</title>
-    <link>/publication_types/6/</link>
-      <atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.martens.tech/publication_types/6/</link>
+      <atom:link href="https://www.martens.tech/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.martens.tech/img/icon-192.png</url>
       <title>6</title>
-      <link>/publication_types/6/</link>
+      <link>https://www.martens.tech/publication_types/6/</link>
     </image>
     
     <item>
       <title>Analytical, optimal, and sparse optimal control of traveling wave solutions to reaction-diffusion systems</title>
-      <link>/publication/journal-article/2016-01-01_analytical_optimal/</link>
+      <link>https://www.martens.tech/publication/journal-article/2016-01-01_analytical_optimal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2016-01-01_analytical_optimal/</guid>
+      <guid>https://www.martens.tech/publication/journal-article/2016-01-01_analytical_optimal/</guid>
       <description></description>
     </item>
     

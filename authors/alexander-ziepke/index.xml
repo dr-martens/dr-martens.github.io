@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander Ziepke | Dr. Steffen Martens</title>
-    <link>/authors/alexander-ziepke/</link>
-      <atom:link href="/authors/alexander-ziepke/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.martens.tech/authors/alexander-ziepke/</link>
+      <atom:link href="https://www.martens.tech/authors/alexander-ziepke/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Ziepke</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.martens.tech/img/icon-192.png</url>
       <title>Alexander Ziepke</title>
-      <link>/authors/alexander-ziepke/</link>
+      <link>https://www.martens.tech/authors/alexander-ziepke/</link>
     </image>
     
     <item>
       <title>Control of nonlinear wave solutions to neural field equations</title>
-      <link>/publication/journal-article/2019-01-01_control_of_nonlinear/</link>
+      <link>https://www.martens.tech/publication/journal-article/2019-01-01_control_of_nonlinear/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2019-01-01_control_of_nonlinear/</guid>
+      <guid>https://www.martens.tech/publication/journal-article/2019-01-01_control_of_nonlinear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wave propagation in spatially modulated tubes</title>
-      <link>/publication/journal-article/2016-01-01_wave_propagation_in_/</link>
+      <link>https://www.martens.tech/publication/journal-article/2016-01-01_wave_propagation_in_/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2016-01-01_wave_propagation_in_/</guid>
+      <guid>https://www.martens.tech/publication/journal-article/2016-01-01_wave_propagation_in_/</guid>
       <description></description>
     </item>
     

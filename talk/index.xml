@@ -2,581 +2,581 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks | Dr. Steffen Martens</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.martens.tech/talk/</link>
+      <atom:link href="https://www.martens.tech/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.martens.tech/img/icon-192.png</url>
       <title>Talks</title>
-      <link>/talk/</link>
+      <link>https://www.martens.tech/talk/</link>
     </image>
     
     <item>
       <title>Invited talk: Straight-line regression in errors-in-variables models</title>
-      <link>/talk/paris2020-1/</link>
+      <link>https://www.martens.tech/talk/paris2020-1/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/paris2020-1/</guid>
+      <guid>https://www.martens.tech/talk/paris2020-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Invited talk:</title>
-      <link>/talk/erfurt2019-1/</link>
+      <link>https://www.martens.tech/talk/erfurt2019-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/erfurt2019-1/</guid>
+      <guid>https://www.martens.tech/talk/erfurt2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/ptbberlin2019-1/</link>
+      <link>https://www.martens.tech/talk/ptbberlin2019-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/ptbberlin2019-1/</guid>
+      <guid>https://www.martens.tech/talk/ptbberlin2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/frankfurt2019-1/</link>
+      <link>https://www.martens.tech/talk/frankfurt2019-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/frankfurt2019-1/</guid>
+      <guid>https://www.martens.tech/talk/frankfurt2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/lissabon2019-1/</link>
+      <link>https://www.martens.tech/talk/lissabon2019-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/lissabon2019-1/</guid>
+      <guid>https://www.martens.tech/talk/lissabon2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial:</title>
-      <link>/talk/tuberlin2019-1/</link>
+      <link>https://www.martens.tech/talk/tuberlin2019-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2019-1/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2019-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial:</title>
-      <link>/talk/tuberlin2019-2/</link>
+      <link>https://www.martens.tech/talk/tuberlin2019-2/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2019-2/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2019-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Inverse problems in nonlinear wave propagation</title>
-      <link>/talk/warnemunde2018-1/</link>
+      <link>https://www.martens.tech/talk/warnemunde2018-1/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/warnemunde2018-1/</guid>
+      <guid>https://www.martens.tech/talk/warnemunde2018-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/tuberlin2018-1/</link>
+      <link>https://www.martens.tech/talk/tuberlin2018-1/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2018-1/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2018-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/tuberlin2018-2/</link>
+      <link>https://www.martens.tech/talk/tuberlin2018-2/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2018-2/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2018-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>talks:</title>
-      <link>/talk/berlin2018-1/</link>
+      <link>https://www.martens.tech/talk/berlin2018-1/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2018-1/</guid>
+      <guid>https://www.martens.tech/talk/berlin2018-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial:</title>
-      <link>/talk/tuberlin2018-3/</link>
+      <link>https://www.martens.tech/talk/tuberlin2018-3/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2018-3/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2018-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Control of traveling localized spots</title>
-      <link>/talk/vilanovailageltru2017-1/</link>
+      <link>https://www.martens.tech/talk/vilanovailageltru2017-1/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/talk/vilanovailageltru2017-1/</guid>
+      <guid>https://www.martens.tech/talk/vilanovailageltru2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Wave propagation in spatially modulated domains</title>
-      <link>/talk/neworleans2017-2/</link>
+      <link>https://www.martens.tech/talk/neworleans2017-2/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/talk/neworleans2017-2/</guid>
+      <guid>https://www.martens.tech/talk/neworleans2017-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Control of traveling localized spots</title>
-      <link>/talk/neworleans2017-1/</link>
+      <link>https://www.martens.tech/talk/neworleans2017-1/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/talk/neworleans2017-1/</guid>
+      <guid>https://www.martens.tech/talk/neworleans2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/tuberlin2017-1/</link>
+      <link>https://www.martens.tech/talk/tuberlin2017-1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2017-1/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/tuberlin2017-2/</link>
+      <link>https://www.martens.tech/talk/tuberlin2017-2/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2017-2/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2017-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/dresden2017-1/</link>
+      <link>https://www.martens.tech/talk/dresden2017-1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/talk/dresden2017-1/</guid>
+      <guid>https://www.martens.tech/talk/dresden2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/lutherstadtwittenberg2017-1/</link>
+      <link>https://www.martens.tech/talk/lutherstadtwittenberg2017-1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/talk/lutherstadtwittenberg2017-1/</guid>
+      <guid>https://www.martens.tech/talk/lutherstadtwittenberg2017-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial:</title>
-      <link>/talk/tuberlin2017-3/</link>
+      <link>https://www.martens.tech/talk/tuberlin2017-3/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2017-3/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2017-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>/talk/durham2016-1/</link>
+      <link>https://www.martens.tech/talk/durham2016-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/durham2016-1/</guid>
+      <guid>https://www.martens.tech/talk/durham2016-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>/talk/heringsdorf2016-1/</link>
+      <link>https://www.martens.tech/talk/heringsdorf2016-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/heringsdorf2016-1/</guid>
+      <guid>https://www.martens.tech/talk/heringsdorf2016-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/huberlin2016-1/</link>
+      <link>https://www.martens.tech/talk/huberlin2016-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/huberlin2016-1/</guid>
+      <guid>https://www.martens.tech/talk/huberlin2016-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/tuberlin2016-1/</link>
+      <link>https://www.martens.tech/talk/tuberlin2016-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2016-1/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2016-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/berlin2016-1/</link>
+      <link>https://www.martens.tech/talk/berlin2016-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2016-1/</guid>
+      <guid>https://www.martens.tech/talk/berlin2016-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial:</title>
-      <link>/talk/huberlin2016-2/</link>
+      <link>https://www.martens.tech/talk/huberlin2016-2/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/huberlin2016-2/</guid>
+      <guid>https://www.martens.tech/talk/huberlin2016-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/tuberlin2015-1/</link>
+      <link>https://www.martens.tech/talk/tuberlin2015-1/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2015-1/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2015-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/garching2015-1/</link>
+      <link>https://www.martens.tech/talk/garching2015-1/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/talk/garching2015-1/</guid>
+      <guid>https://www.martens.tech/talk/garching2015-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/lutherstadtwittenberg2015-1/</link>
+      <link>https://www.martens.tech/talk/lutherstadtwittenberg2015-1/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/talk/lutherstadtwittenberg2015-1/</guid>
+      <guid>https://www.martens.tech/talk/lutherstadtwittenberg2015-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>talk:</title>
-      <link>/talk/berlin2015-1/</link>
+      <link>https://www.martens.tech/talk/berlin2015-1/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2015-1/</guid>
+      <guid>https://www.martens.tech/talk/berlin2015-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Invited Talk: Hydrodynamically enforced entropic trapping of Brownian particles</title>
-      <link>/talk/mpi-pksdresden2014-1/</link>
+      <link>https://www.martens.tech/talk/mpi-pksdresden2014-1/</link>
       <pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>/talk/mpi-pksdresden2014-1/</guid>
+      <guid>https://www.martens.tech/talk/mpi-pksdresden2014-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/tuberlin2014-1/</link>
+      <link>https://www.martens.tech/talk/tuberlin2014-1/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2014-1/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2014-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/bayreuth2014-1/</link>
+      <link>https://www.martens.tech/talk/bayreuth2014-1/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/talk/bayreuth2014-1/</guid>
+      <guid>https://www.martens.tech/talk/bayreuth2014-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/berlin2014-1/</link>
+      <link>https://www.martens.tech/talk/berlin2014-1/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2014-1/</guid>
+      <guid>https://www.martens.tech/talk/berlin2014-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks:</title>
-      <link>/talk/dresden2014-1/</link>
+      <link>https://www.martens.tech/talk/dresden2014-1/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/talk/dresden2014-1/</guid>
+      <guid>https://www.martens.tech/talk/dresden2014-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/tuberlin2013-1/</link>
+      <link>https://www.martens.tech/talk/tuberlin2013-1/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2013-1/</guid>
+      <guid>https://www.martens.tech/talk/tuberlin2013-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/berlin2013-1/</link>
+      <link>https://www.martens.tech/talk/berlin2013-1/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2013-1/</guid>
+      <guid>https://www.martens.tech/talk/berlin2013-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/berlin2013-2/</link>
+      <link>https://www.martens.tech/talk/berlin2013-2/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2013-2/</guid>
+      <guid>https://www.martens.tech/talk/berlin2013-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/hahnenklee2013-1/</link>
+      <link>https://www.martens.tech/talk/hahnenklee2013-1/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/talk/hahnenklee2013-1/</guid>
+      <guid>https://www.martens.tech/talk/hahnenklee2013-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial: Parallel Computing with CUDA</title>
-      <link>/talk/potsdam2013-1/</link>
+      <link>https://www.martens.tech/talk/potsdam2013-1/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/talk/potsdam2013-1/</guid>
+      <guid>https://www.martens.tech/talk/potsdam2013-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial: Stochasticity</title>
-      <link>/talk/graal-muritz2013-1/</link>
+      <link>https://www.martens.tech/talk/graal-muritz2013-1/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/talk/graal-muritz2013-1/</guid>
+      <guid>https://www.martens.tech/talk/graal-muritz2013-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Biased and ﬂow driven Brownian motion in conﬁned geometries</title>
-      <link>/talk/usa2012-1/</link>
+      <link>https://www.martens.tech/talk/usa2012-1/</link>
       <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>/talk/usa2012-1/</guid>
+      <guid>https://www.martens.tech/talk/usa2012-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Biased and ﬂow driven Brownian motion in conﬁned geometries</title>
-      <link>/talk/potsdam2012-1/</link>
+      <link>https://www.martens.tech/talk/potsdam2012-1/</link>
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>/talk/potsdam2012-1/</guid>
+      <guid>https://www.martens.tech/talk/potsdam2012-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Driven Brownian transport through arrays of symmetric obstacles</title>
-      <link>/talk/potsdam2012-2/</link>
+      <link>https://www.martens.tech/talk/potsdam2012-2/</link>
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>/talk/potsdam2012-2/</guid>
+      <guid>https://www.martens.tech/talk/potsdam2012-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>/talk/krakau2012-1/</link>
+      <link>https://www.martens.tech/talk/krakau2012-1/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/talk/krakau2012-1/</guid>
+      <guid>https://www.martens.tech/talk/krakau2012-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/huberlin2012-1/</link>
+      <link>https://www.martens.tech/talk/huberlin2012-1/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/talk/huberlin2012-1/</guid>
+      <guid>https://www.martens.tech/talk/huberlin2012-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/berlin2012-1/</link>
+      <link>https://www.martens.tech/talk/berlin2012-1/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2012-1/</guid>
+      <guid>https://www.martens.tech/talk/berlin2012-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/berlin2012-2/</link>
+      <link>https://www.martens.tech/talk/berlin2012-2/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2012-2/</guid>
+      <guid>https://www.martens.tech/talk/berlin2012-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk: Biased Brownian Motion in Conﬁned Geometries</title>
-      <link>/talk/palmademallorca2011-1/</link>
+      <link>https://www.martens.tech/talk/palmademallorca2011-1/</link>
       <pubDate>Mon, 12 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>/talk/palmademallorca2011-1/</guid>
+      <guid>https://www.martens.tech/talk/palmademallorca2011-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Entropic transport - a step beyond Fick-Jacobs</title>
-      <link>/talk/mpidresden2011-1/</link>
+      <link>https://www.martens.tech/talk/mpidresden2011-1/</link>
       <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>/talk/mpidresden2011-1/</guid>
+      <guid>https://www.martens.tech/talk/mpidresden2011-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>/talk/dallas2011-1/</link>
+      <link>https://www.martens.tech/talk/dallas2011-1/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/talk/dallas2011-1/</guid>
+      <guid>https://www.martens.tech/talk/dallas2011-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/huberlin2011-1/</link>
+      <link>https://www.martens.tech/talk/huberlin2011-1/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/talk/huberlin2011-1/</guid>
+      <guid>https://www.martens.tech/talk/huberlin2011-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/berlin2011-1/</link>
+      <link>https://www.martens.tech/talk/berlin2011-1/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2011-1/</guid>
+      <guid>https://www.martens.tech/talk/berlin2011-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/berlin2011-3/</link>
+      <link>https://www.martens.tech/talk/berlin2011-3/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2011-3/</guid>
+      <guid>https://www.martens.tech/talk/berlin2011-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/huberlin2011-2/</link>
+      <link>https://www.martens.tech/talk/huberlin2011-2/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/talk/huberlin2011-2/</guid>
+      <guid>https://www.martens.tech/talk/huberlin2011-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>talk:</title>
-      <link>/talk/berlin2011-2/</link>
+      <link>https://www.martens.tech/talk/berlin2011-2/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2011-2/</guid>
+      <guid>https://www.martens.tech/talk/berlin2011-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>/talk/berlin2010-1/</link>
+      <link>https://www.martens.tech/talk/berlin2010-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2010-1/</guid>
+      <guid>https://www.martens.tech/talk/berlin2010-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>/talk/regensburg2010-1/</link>
+      <link>https://www.martens.tech/talk/regensburg2010-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/talk/regensburg2010-1/</guid>
+      <guid>https://www.martens.tech/talk/regensburg2010-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/huberlin2010-1/</link>
+      <link>https://www.martens.tech/talk/huberlin2010-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/talk/huberlin2010-1/</guid>
+      <guid>https://www.martens.tech/talk/huberlin2010-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/augsburg2010-1/</link>
+      <link>https://www.martens.tech/talk/augsburg2010-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/talk/augsburg2010-1/</guid>
+      <guid>https://www.martens.tech/talk/augsburg2010-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/bristol2010-1/</link>
+      <link>https://www.martens.tech/talk/bristol2010-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/talk/bristol2010-1/</guid>
+      <guid>https://www.martens.tech/talk/bristol2010-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Transport of a dimer subject to localized forces over a periodic potential</title>
-      <link>/talk/mainz2009-1/</link>
+      <link>https://www.martens.tech/talk/mainz2009-1/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>/talk/mainz2009-1/</guid>
+      <guid>https://www.martens.tech/talk/mainz2009-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster:</title>
-      <link>/talk/badhonnef2009-1/</link>
+      <link>https://www.martens.tech/talk/badhonnef2009-1/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/talk/badhonnef2009-1/</guid>
+      <guid>https://www.martens.tech/talk/badhonnef2009-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/berlin2009-1/</link>
+      <link>https://www.martens.tech/talk/berlin2009-1/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2009-1/</guid>
+      <guid>https://www.martens.tech/talk/berlin2009-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/dresden2009-1/</link>
+      <link>https://www.martens.tech/talk/dresden2009-1/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/talk/dresden2009-1/</guid>
+      <guid>https://www.martens.tech/talk/dresden2009-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Resonance-like phenomena of the mobility of a chain of nonlinear coupled oscillators in a two-dimensional periodic potential</title>
-      <link>/talk/fuberlin2008-1/</link>
+      <link>https://www.martens.tech/talk/fuberlin2008-1/</link>
       <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
-      <guid>/talk/fuberlin2008-1/</guid>
+      <guid>https://www.martens.tech/talk/fuberlin2008-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Resonance-like phenomena of the mobility of a chain of nonlinear coupled oscillators in a two-dimensional periodic potential</title>
-      <link>/talk/mpipotsdam2008-1/</link>
+      <link>https://www.martens.tech/talk/mpipotsdam2008-1/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/talk/mpipotsdam2008-1/</guid>
+      <guid>https://www.martens.tech/talk/mpipotsdam2008-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/berlin2008-1/</link>
+      <link>https://www.martens.tech/talk/berlin2008-1/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2008-1/</guid>
+      <guid>https://www.martens.tech/talk/berlin2008-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk:</title>
-      <link>/talk/berlin2008-2/</link>
+      <link>https://www.martens.tech/talk/berlin2008-2/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2008-2/</guid>
+      <guid>https://www.martens.tech/talk/berlin2008-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/graal-muritz2007-1/</link>
+      <link>https://www.martens.tech/talk/graal-muritz2007-1/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/talk/graal-muritz2007-1/</guid>
+      <guid>https://www.martens.tech/talk/graal-muritz2007-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar:</title>
-      <link>/talk/huberlin2007-1/</link>
+      <link>https://www.martens.tech/talk/huberlin2007-1/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/talk/huberlin2007-1/</guid>
+      <guid>https://www.martens.tech/talk/huberlin2007-1/</guid>
       <description></description>
     </item>
     
