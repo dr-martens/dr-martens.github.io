@@ -5,7 +5,7 @@
     <link>/authors/clemens-elster/</link>
       <atom:link href="/authors/clemens-elster/index.xml" rel="self" type="application/rss+xml" />
     <description>Clemens Elster</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Clemens Elster</title>
@@ -13,10 +13,74 @@
     </image>
     
     <item>
+      <title>Quantifying uncertainty when comparing measurement methods – Haemoglobin concentration as an example of correlation in straight-line regression</title>
+      <link>/publication/manual/2020-06-28_methodcomp/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manual/2020-06-28_methodcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Kalibrierung eines Drehmomentmesssystems</title>
+      <link>/talk/vdi2020-1/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/vdi2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration of a torque measuring system – GUM uncertainty evaluation for least-squares versus Bayesian inference</title>
+      <link>/publication/manual/2020-05-26_calibrationuncertaintygumvsbayesian/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manual/2020-05-26_calibrationuncertaintygumvsbayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk: Straight-line regression in errors-in-variables models</title>
+      <link>/talk/paris2020-1/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/paris2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Straight-line regression in errors-in-variables models -- Comparing different GUM uncertainty evaluations</title>
       <link>/publication/preprint/2020-01-01_straight-line_regres/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/preprint/2020-01-01_straight-line_regres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk: Gegenüberstellung von linearen Regressionsverfahren beim Methodenvergleich</title>
+      <link>/talk/erfurt2019-1/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/erfurt2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Straight-line regression in errors-in-variables models</title>
+      <link>/talk/lissabon2019-1/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/lissabon2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: EMUE Projekt</title>
+      <link>/talk/vdi2019-1/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/vdi2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Straight line regression in Errors-in-Variables Models</title>
+      <link>/talk/berlin2019-1/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/berlin2019-1/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Tröltzsch 2 | Dr. Steffen Martens</title>
+    <link>/authors/f.-troltzsch-2/</link>
+      <atom:link href="/authors/f.-troltzsch-2/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Tröltzsch 2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>F. Tröltzsch 2</title>
+      <link>/authors/f.-troltzsch-2/</link>
+    </image>
+    
+    <item>
+      <title>Poster: Inverse problems in nonlinear wave propagation</title>
+      <link>/talk/warnemunde2018-1/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/warnemunde2018-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

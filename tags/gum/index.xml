@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GUM | Dr. Steffen Martens</title>
+    <link>/tags/gum/</link>
+      <atom:link href="/tags/gum/index.xml" rel="self" type="application/rss+xml" />
+    <description>GUM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>GUM</title>
+      <link>/tags/gum/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/project/regression/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying uncertainty when comparing measurement methods – Haemoglobin concentration as an example of correlation in straight-line regression</title>
+      <link>/publication/manual/2020-06-28_methodcomp/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manual/2020-06-28_methodcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Kalibrierung eines Drehmomentmesssystems</title>
+      <link>/talk/vdi2020-1/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/vdi2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Straight-line regression in errors-in-variables models</title>
+      <link>/talk/lissabon2019-1/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/lissabon2019-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

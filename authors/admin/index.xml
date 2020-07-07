@@ -5,12 +5,36 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Steffen Martens</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Dr. Steffen Martens</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Quantifying uncertainty when comparing measurement methods – Haemoglobin concentration as an example of correlation in straight-line regression</title>
+      <link>/publication/manual/2020-06-28_methodcomp/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manual/2020-06-28_methodcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Kalibrierung eines Drehmomentmesssystems</title>
+      <link>/talk/vdi2020-1/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/vdi2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration of a torque measuring system – GUM uncertainty evaluation for least-squares versus Bayesian inference</title>
+      <link>/publication/manual/2020-05-26_calibrationuncertaintygumvsbayesian/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manual/2020-05-26_calibrationuncertaintygumvsbayesian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Invited talk: Straight-line regression in errors-in-variables models</title>
@@ -37,58 +61,74 @@
     </item>
     
     <item>
-      <title>Control of nonlinear wave solutions to neural field equations</title>
-      <link>/publication/journal-article/2019-01-01_control_of_nonlinear/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2019-01-01_control_of_nonlinear/</guid>
+      <title>Tutorial: MATLAB Workshop - Introduction for beginners</title>
+      <link>/talk/tuberlin2019-2/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/tuberlin2019-2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Invited talk:</title>
+      <title>Invited talk: Gegenüberstellung von linearen Regressionsverfahren beim Methodenvergleich</title>
       <link>/talk/erfurt2019-1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/talk/erfurt2019-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Seminar:</title>
-      <link>/talk/ptbberlin2019-1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/ptbberlin2019-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talk:</title>
-      <link>/talk/frankfurt2019-1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/frankfurt2019-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talk:</title>
+      <title>Talk: Straight-line regression in errors-in-variables models</title>
       <link>/talk/lissabon2019-1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/talk/lissabon2019-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tutorial:</title>
+      <title>Tutorial: MATLAB Workshop - Introduction for beginners</title>
       <link>/talk/tuberlin2019-1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       <guid>/talk/tuberlin2019-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tutorial:</title>
-      <link>/talk/tuberlin2019-2/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2019-2/</guid>
+      <title>Control of nonlinear wave solutions to neural field equations</title>
+      <link>/publication/journal-article/2019-05-23_control_of_nonlinear/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019-05-23_control_of_nonlinear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: EMUE Projekt</title>
+      <link>/talk/vdi2019-1/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/vdi2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Straight line regression in Errors-in-Variables Models</title>
+      <link>/talk/berlin2019-1/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/berlin2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar: Straight line regression in Errors in Variables Models</title>
+      <link>/talk/ptbberlin2019-1/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/ptbberlin2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar: In silico experiments on Bump control of neuromorphic oscillators </title>
+      <link>/talk/tuberlin2018-4/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/tuberlin2018-4/</guid>
       <description></description>
     </item>
     
@@ -101,34 +141,34 @@
     </item>
     
     <item>
-      <title>Seminar:</title>
+      <title>Seminar: Wave propagation in spatially modulated domains</title>
       <link>/talk/tuberlin2018-1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       <guid>/talk/tuberlin2018-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Seminar:</title>
-      <link>/talk/tuberlin2018-2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2018-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talks:</title>
-      <link>/talk/berlin2018-1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2018-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial:</title>
+      <title>Tutorial: MATLAB Workshop - Introduction for beginners</title>
       <link>/talk/tuberlin2018-3/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       <guid>/talk/tuberlin2018-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Wave propagation in spatially modulated domains</title>
+      <link>/talk/berlin2018-2/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/berlin2018-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Control of Wave Propagation in Neural Field Equations</title>
+      <link>/talk/berlin2018-1/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/berlin2018-1/</guid>
       <description></description>
     </item>
     
@@ -198,17 +238,17 @@
     
     <item>
       <title>Analytical, optimal, and sparse optimal control of traveling wave solutions to reaction-diffusion systems</title>
-      <link>/publication/journal-article/2016-01-01_analytical_optimal/</link>
+      <link>/publication/journal-article/2016-01-23_analytical_optimal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2016-01-01_analytical_optimal/</guid>
+      <guid>/publication/journal-article/2016-01-23_analytical_optimal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Note: From reaction-diffusion systems to confined Brownian motion</title>
-      <link>/publication/journal-article/2016-01-01_note_from_reaction-d/</link>
+      <link>/publication/journal-article/2016-07-07_note_from_reaction-d/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2016-01-01_note_from_reaction-d/</guid>
+      <guid>/publication/journal-article/2016-07-07_note_from_reaction-d/</guid>
       <description></description>
     </item>
     
@@ -262,17 +302,17 @@
     
     <item>
       <title>Wave propagation in spatially modulated tubes</title>
-      <link>/publication/journal-article/2016-01-01_wave_propagation_in_/</link>
+      <link>/publication/journal-article/2016-09-07_wave_propagation_in_/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2016-01-01_wave_propagation_in_/</guid>
+      <guid>/publication/journal-article/2016-09-07_wave_propagation_in_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Front propagation in channels with spatially modulated cross section</title>
-      <link>/publication/journal-article/2015-01-01_front_propagation_in/</link>
+      <link>/publication/journal-article/2015-02-02_front_propagation_in/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2015-01-01_front_propagation_in/</guid>
+      <guid>/publication/journal-article/2015-02-02_front_propagation_in/</guid>
       <description></description>
     </item>
     

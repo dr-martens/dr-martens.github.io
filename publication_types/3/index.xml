@@ -5,7 +5,7 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>3</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Transport of Brownian particles in confined geometries: Steps beyond the Fick-Jacobs approach</title>
-      <link>/publication/thesis/2013-01-01_transport_of_brownia/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/thesis/2013-01-01_transport_of_brownia/</guid>
+      <title>Control of traveling localized spots</title>
+      <link>/publication/preprint/2020-01-01_control_of_traveling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/2020-01-01_control_of_traveling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Straight-line regression in errors-in-variables models -- Comparing different GUM uncertainty evaluations</title>
+      <link>/publication/preprint/2020-01-01_straight-line_regres/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/2020-01-01_straight-line_regres/</guid>
       <description></description>
     </item>
     

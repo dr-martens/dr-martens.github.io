@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Totz | Dr. Steffen Martens</title>
+    <link>/authors/jan-totz/</link>
+      <atom:link href="/authors/jan-totz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan Totz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jan Totz</title>
+      <link>/authors/jan-totz/</link>
+    </image>
+    
+    <item>
+      <title>Tutorial: MATLAB Workshop - Introduction for beginners</title>
+      <link>/talk/tuberlin2018-3/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/tuberlin2018-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Wave propagation in spatially modulated domains</title>
+      <link>/talk/berlin2018-2/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/berlin2018-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

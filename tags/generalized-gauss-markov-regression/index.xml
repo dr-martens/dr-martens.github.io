@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generalized Gauss-Markov regression | Dr. Steffen Martens</title>
+    <link>/tags/generalized-gauss-markov-regression/</link>
+      <atom:link href="/tags/generalized-gauss-markov-regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Generalized Gauss-Markov regression</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Generalized Gauss-Markov regression</title>
+      <link>/tags/generalized-gauss-markov-regression/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/project/regression/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk: Straight-line regression in errors-in-variables models</title>
+      <link>/talk/paris2020-1/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/paris2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk: Gegenüberstellung von linearen Regressionsverfahren beim Methodenvergleich</title>
+      <link>/talk/erfurt2019-1/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/erfurt2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Straight-line regression in errors-in-variables models</title>
+      <link>/talk/lissabon2019-1/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/lissabon2019-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

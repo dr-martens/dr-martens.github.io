@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,11 +15,51 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a theoretical physicist (PhD) by training with more than 12 years of experience in statistical data analysis, mathematical modeling of complex nonlinear systems and stochastic processes. Autor of 15+ scientific publications with vast experience in scientific presentation, mentoring and communication in interdisciplinary environments. I use my continuously developing strong programming skills in Python, R, Matlab and C to solve challenging problems based on data sets, to develop models and related markers for estimates and forecasts.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Theoretical Physicist (PhD) by training with more than 12 years of experience in statistical data analysis, mathematical modeling of complex nonlinear systems and stochastic processes. Autor of 15+ scientific publications with vast experience in scientific presentation, mentoring and communication in interdisciplinary environments. I use my continuously developing, strong programming skills in Python, R, Matlab and C to solve challenging problems based on data sets, to develop models and related markers for estimates and forecasts.&lt;/p&gt;
 &lt;p&gt;I am looking for opportunities to apply my deep knowledge of data analysis and programming to help companpies use data to achieve their business objectives.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Clemens Elster</title>
+      <link>/authors/clemens-elster/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/clemens-elster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jörg Neukammer</title>
+      <link>/authors/jorg-neukammer/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jorg-neukammer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katy Klauenberg</title>
+      <link>/authors/katy-klauenberg/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/katy-klauenberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Cowen</title>
+      <link>/authors/simon-cowen/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/simon-cowen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen L. R. Ellison</title>
+      <link>/authors/stephen-l.-r.-ellison/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-l.-r.-ellison/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -43,14 +83,6 @@
       <link>/authors/christopher-ryll/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/christopher-ryll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clemens Elster</title>
-      <link>/authors/clemens-elster/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/clemens-elster/</guid>
       <description></description>
     </item>
     
@@ -87,14 +119,6 @@
     </item>
     
     <item>
-      <title>Katy Klauenberg</title>
-      <link>/authors/katy-klauenberg/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/katy-klauenberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Maurice G. Cox</title>
       <link>/authors/maurice-g.-cox/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -105,8 +129,24 @@
     <item>
       <title>Alexander Ziepke</title>
       <link>/authors/alexander-ziepke/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/alexander-ziepke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fredi Tröltzsch</title>
+      <link>/authors/fredi-troltzsch/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/fredi-troltzsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Totz</title>
+      <link>/authors/jan-totz/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jan-totz/</guid>
       <description></description>
     </item>
     

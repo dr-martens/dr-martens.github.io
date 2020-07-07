@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clemens Es | Dr. Steffen Martens</title>
+    <link>/authors/clemens-es/</link>
+      <atom:link href="/authors/clemens-es/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clemens Es</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Clemens Es</title>
+      <link>/authors/clemens-es/</link>
+    </image>
+    
+    <item>
+      <title>Talk: Straight line regression in Errors-in-Variables Models</title>
+      <link>/talk/berlin2019-1/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/berlin2019-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

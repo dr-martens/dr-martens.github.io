@@ -22,33 +22,57 @@
     
     <item>
       <title>Control of nonlinear wave solutions to neural field equations</title>
-      <link>/publication/journal-article/2019-01-01_control_of_nonlinear/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2019-01-01_control_of_nonlinear/</guid>
+      <link>/publication/journal-article/2019-05-23_control_of_nonlinear/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019-05-23_control_of_nonlinear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Inverse problems in nonlinear wave propagation</title>
+      <link>/talk/warnemunde2018-1/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/warnemunde2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Wave propagation in spatially modulated domains</title>
+      <link>/talk/berlin2018-2/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/berlin2018-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Control of Wave Propagation in Neural Field Equations</title>
+      <link>/talk/berlin2018-1/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/berlin2018-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical, optimal, and sparse optimal control of traveling wave solutions to reaction-diffusion systems</title>
-      <link>/publication/journal-article/2016-01-01_analytical_optimal/</link>
+      <link>/publication/journal-article/2016-01-23_analytical_optimal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2016-01-01_analytical_optimal/</guid>
+      <guid>/publication/journal-article/2016-01-23_analytical_optimal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wave propagation in spatially modulated tubes</title>
-      <link>/publication/journal-article/2016-01-01_wave_propagation_in_/</link>
+      <link>/publication/journal-article/2016-09-07_wave_propagation_in_/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2016-01-01_wave_propagation_in_/</guid>
+      <guid>/publication/journal-article/2016-09-07_wave_propagation_in_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Front propagation in channels with spatially modulated cross section</title>
-      <link>/publication/journal-article/2015-01-01_front_propagation_in/</link>
+      <link>/publication/journal-article/2015-02-02_front_propagation_in/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2015-01-01_front_propagation_in/</guid>
+      <guid>/publication/journal-article/2015-02-02_front_propagation_in/</guid>
       <description></description>
     </item>
     

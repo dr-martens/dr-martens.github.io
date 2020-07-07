@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Ziepke 1 | Dr. Steffen Martens</title>
+    <link>/authors/a.-ziepke-1/</link>
+      <atom:link href="/authors/a.-ziepke-1/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Ziepke 1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. Ziepke 1</title>
+      <link>/authors/a.-ziepke-1/</link>
+    </image>
+    
+    <item>
+      <title>Poster: Inverse problems in nonlinear wave propagation</title>
+      <link>/talk/warnemunde2018-1/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/warnemunde2018-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

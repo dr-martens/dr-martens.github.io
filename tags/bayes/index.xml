@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayes | Dr. Steffen Martens</title>
+    <link>/tags/bayes/</link>
+      <atom:link href="/tags/bayes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Bayes</title>
+      <link>/tags/bayes/</link>
+    </image>
+    
+    <item>
+      <title>Calibration of a torque measuring system – GUM uncertainty evaluation for least-squares versus Bayesian inference</title>
+      <link>/publication/manual/2020-05-26_calibrationuncertaintygumvsbayesian/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manual/2020-05-26_calibrationuncertaintygumvsbayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

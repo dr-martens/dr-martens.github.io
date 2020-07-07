@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Talk: Kalibrierung eines Drehmomentmesssystems</title>
+      <link>/talk/vdi2020-1/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/vdi2020-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Invited talk: Straight-line regression in errors-in-variables models</title>
@@ -21,50 +29,66 @@
     </item>
     
     <item>
-      <title>Invited talk:</title>
+      <title>Tutorial: MATLAB Workshop - Introduction for beginners</title>
+      <link>/talk/tuberlin2019-2/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/tuberlin2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk: Gegenüberstellung von linearen Regressionsverfahren beim Methodenvergleich</title>
       <link>/talk/erfurt2019-1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/talk/erfurt2019-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Seminar:</title>
-      <link>/talk/ptbberlin2019-1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/ptbberlin2019-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talk:</title>
-      <link>/talk/frankfurt2019-1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/frankfurt2019-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talk:</title>
+      <title>Talk: Straight-line regression in errors-in-variables models</title>
       <link>/talk/lissabon2019-1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/talk/lissabon2019-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tutorial:</title>
+      <title>Tutorial: MATLAB Workshop - Introduction for beginners</title>
       <link>/talk/tuberlin2019-1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       <guid>/talk/tuberlin2019-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tutorial:</title>
-      <link>/talk/tuberlin2019-2/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2019-2/</guid>
+      <title>Talk: EMUE Projekt</title>
+      <link>/talk/vdi2019-1/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/vdi2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Straight line regression in Errors-in-Variables Models</title>
+      <link>/talk/berlin2019-1/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/berlin2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar: Straight line regression in Errors in Variables Models</title>
+      <link>/talk/ptbberlin2019-1/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/ptbberlin2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar: In silico experiments on Bump control of neuromorphic oscillators </title>
+      <link>/talk/tuberlin2018-4/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/tuberlin2018-4/</guid>
       <description></description>
     </item>
     
@@ -77,34 +101,34 @@
     </item>
     
     <item>
-      <title>Seminar:</title>
+      <title>Seminar: Wave propagation in spatially modulated domains</title>
       <link>/talk/tuberlin2018-1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       <guid>/talk/tuberlin2018-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Seminar:</title>
-      <link>/talk/tuberlin2018-2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/tuberlin2018-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talks:</title>
-      <link>/talk/berlin2018-1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/berlin2018-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial:</title>
+      <title>Tutorial: MATLAB Workshop - Introduction for beginners</title>
       <link>/talk/tuberlin2018-3/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       <guid>/talk/tuberlin2018-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Wave propagation in spatially modulated domains</title>
+      <link>/talk/berlin2018-2/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/berlin2018-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Control of Wave Propagation in Neural Field Equations</title>
+      <link>/talk/berlin2018-1/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/berlin2018-1/</guid>
       <description></description>
     </item>
     

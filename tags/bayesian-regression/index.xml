@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian regression | Dr. Steffen Martens</title>
+    <link>/tags/bayesian-regression/</link>
+      <atom:link href="/tags/bayesian-regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian regression</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Bayesian regression</title>
+      <link>/tags/bayesian-regression/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/project/regression/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Kalibrierung eines Drehmomentmesssystems</title>
+      <link>/talk/vdi2020-1/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/vdi2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk: Straight-line regression in errors-in-variables models</title>
+      <link>/talk/paris2020-1/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/paris2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk: Gegenüberstellung von linearen Regressionsverfahren beim Methodenvergleich</title>
+      <link>/talk/erfurt2019-1/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/erfurt2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk: Straight-line regression in errors-in-variables models</title>
+      <link>/talk/lissabon2019-1/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/lissabon2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar: Straight line regression in Errors in Variables Models</title>
+      <link>/talk/ptbberlin2019-1/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/ptbberlin2019-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,28 @@
     <link>/tags/regression/</link>
       <atom:link href="/tags/regression/index.xml" rel="self" type="application/rss+xml" />
     <description>regression</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>regression</title>
       <link>/tags/regression/</link>
     </image>
+    
+    <item>
+      <title>Quantifying uncertainty when comparing measurement methods – Haemoglobin concentration as an example of correlation in straight-line regression</title>
+      <link>/publication/manual/2020-06-28_methodcomp/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manual/2020-06-28_methodcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration of a torque measuring system – GUM uncertainty evaluation for least-squares versus Bayesian inference</title>
+      <link>/publication/manual/2020-05-26_calibrationuncertaintygumvsbayesian/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manual/2020-05-26_calibrationuncertaintygumvsbayesian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>

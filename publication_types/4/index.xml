@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Dr. Steffen Martens</title>
+    <link>/publication_types/4/</link>
+      <atom:link href="/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>4</title>
+      <link>/publication_types/4/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying uncertainty when comparing measurement methods – Haemoglobin concentration as an example of correlation in straight-line regression</title>
+      <link>/publication/manual/2020-06-28_methodcomp/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manual/2020-06-28_methodcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration of a torque measuring system – GUM uncertainty evaluation for least-squares versus Bayesian inference</title>
+      <link>/publication/manual/2020-05-26_calibrationuncertaintygumvsbayesian/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/manual/2020-05-26_calibrationuncertaintygumvsbayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
